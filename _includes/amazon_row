@@ -1,0 +1,38 @@
+{% assign amazon_row = page.amazon_reviews %}
+<div class="a-review">
+  <h2>{% if page.lang=="es-ES"%}Opiniones de clientes en Amazon{% else %}Customer reviews on Amazon{% endif %}</h2>
+  <a href="{{ page.amazon_reviews.general_link }}" alt="See review in Amazon" target="_blank">
+    <i class="a-stars a-star-4-5 a-icon-star-medium"></i
+  ></a>
+  <a href="{{ page.amazon_reviews.general_link }}" alt="See review in Amazon" target="_blank" class="a-review-general">
+    {{ page.amazon_reviews.general_review }}
+  </a>
+  <p class="a-color-secondary a-size-base">{{ page.amazon_reviews.general_count }}</p>
+  <div class="feature__wrapper noborder a-size-base">
+    {% assign reviews_array = page.amazon_reviews.reviews %} {% for f in reviews_array %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        <div class="a-row a-spacing-mini">
+          <div class="a-profile-avatar">
+            <img src="/wenospeakamericano/assets/images/amazon_avatar.jpeg" />
+          </div>
+          {{ f.name }}
+        </div>
+        <div class="a-row">
+          <a href="{{ f.link }}" alt="See review in Amazon" target="_blank"> <i class="a-stars a-star-5"></i></a>
+          <a href="{{ f.link }}" alt="See review in Amazon" target="_blank" class="a-review-title">
+            {{ f.tagline }}
+          </a>
+        </div>
+        <span class="a-color-secondary">{{ f.location }}</span>
+        <div class="a-row a-spacing-mini a-verified">
+          {% if page.lang=="es-ES"%}Compra verificada{% else %}Verified Purchase{% endif %}
+        </div>
+        <div class="a-row a-spacing-mini">
+          {{ f.review }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

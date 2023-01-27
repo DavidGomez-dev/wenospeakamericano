@@ -1,0 +1,199 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$ofblue: rgb(60, 60, 110);
+$ofred: rgb(178, 34, 52);
+
+$link-color: $ofred;
+
+$cooper: "cooper-black-std", serif !default;
+
+// modified
+.author-card {
+  background-color: #e6e6e6;
+  width: 100vw;
+  left: calc(-50vw + 50%);
+  position: relative;
+  padding: 0;
+}
+
+.author-card h3 {
+  max-width: 1280px;
+  margin: auto;
+  padding: 2em 1em;
+}
+
+.author-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  column-gap: 1em;
+  padding: 0 5vw;
+}
+
+.author_photo {
+  flex-grow: 1;
+}
+
+.author_photo p {
+  margin: 0 !important;
+}
+
+.author_text {
+  flex-grow: 2;
+  max-width: 50%;
+  align-self: flex-start;
+}
+
+@media all and (max-width: 1280px) {
+  .author-row {
+    flex-wrap: wrap;
+  }
+  .author_photo {
+    flex-grow: 1;
+    order: 2;
+    width: 40%;
+  }
+
+  .author_text {
+    flex-grow: 2;
+    order: 1;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.a-review {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.a-review h2 {
+  font-family: Arial, Helvetica, sans-serif !important;
+  border: none !important;
+  padding-bottom: 0 !important;
+}
+
+.a-size-base {
+  font-size: 14px !important;
+}
+
+.a-row {
+  width: 100%;
+}
+
+.a-spacing-mini {
+  margin-bottom: 8px !important;
+}
+
+.noborder {
+  border: none !important;
+}
+
+.a-profile-avatar {
+  width: 34px;
+  height: 34px;
+  margin-right: 9px;
+  display: inline-block;
+}
+
+.a-stars {
+  width: 80px;
+  height: 18px;
+  margin-right: 9px;
+  display: inline-block;
+  background-image: url("/wenospeakamericano/assets/images/amazon-assets.png");
+  -webkit-background-size: 512px 512px;
+  background-size: 512px 512px;
+  background-repeat: no-repeat;
+  position: relative;
+  vertical-align: text-top;
+}
+
+.a-stars.a-star-5 {
+  background-position: -2px -2px;
+}
+
+.a-stars.a-star-4-5 {
+  background-position: -390px -462px;
+}
+
+.a-icon-star-medium {
+  height: 22px;
+  width: 95px;
+  margin-right: 1px;
+  top: -2px;
+}
+
+.a-review-title {
+  font-weight: 800;
+  line-height: 20px !important;
+  color: black !important;
+  text-decoration: none;
+}
+
+.a-review-general {
+  color: black !important;
+  text-decoration: none;
+}
+
+.a-color-secondary {
+  color: #565959 !important;
+}
+
+.a-verified {
+  font-size: 12px;
+  line-height: 16px;
+  color: #c45500;
+  font-weight: 700 !important;
+}
+
+.author__avatar img {
+  max-width: 100% !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+.author__bio.p-note img {
+  margin-top: 1rem;
+}
+
+.paralax {
+  width: 100vw;
+  left: calc(-50vw + 50%);
+  position: relative;
+  background-color: black;
+  color: white;
+  margin: 0 !important;
+  border: 0 !important;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+
+@media only screen and (max-device-width: 1366px) {
+  .paralax {
+    background-attachment: scroll;
+  }
+}
+
+.paralax .archive__item {
+  width: 100%;
+  padding: 1rem 2rem;
+}
+
+.paralax .archive__item-title {
+  font-family: $cooper;
+}
+
+.page__footer {
+  margin-top: 0 !important;
+}
+
+// -modified
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
