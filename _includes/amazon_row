@@ -14,7 +14,7 @@
       <div class="archive__item">
         <div class="a-row a-spacing-mini">
           <div class="a-profile-avatar">
-            <img src="/assets/images/amazon_avatar.jpeg" />
+            <img src="assets/images/amazon_avatar.jpeg" />
           </div>
           {{ f.name }}
         </div>

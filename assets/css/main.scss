@@ -108,7 +108,7 @@ $cooper: "cooper-black-std", serif !default;
   height: 18px;
   margin-right: 9px;
   display: inline-block;
-  background-image: url("/assets/images/amazon-assets.png");
+  background-image: url("assets/images/amazon-assets.png");
   -webkit-background-size: 512px 512px;
   background-size: 512px 512px;
   background-repeat: no-repeat;
@@ -185,10 +185,10 @@ $cooper: "cooper-black-std", serif !default;
   background-position: center left;
 }
 
-@media only screen and (max-device-width: 1366px) {
-  .paralax {
-    background-attachment: scroll;
-  }
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-size: 1.1em !important;
 }
 
 .paralax .archive__item {
@@ -291,6 +291,8 @@ $cooper: "cooper-black-std", serif !default;
   flex-wrap: wrap;
   background-color: $ofred;
   color: white;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .fixed-notice_top {
@@ -309,7 +311,7 @@ $cooper: "cooper-black-std", serif !default;
 
 .fixed-notice__column {
   padding: 1em;
-  max-width: 50vw;
+  max-width: 800px;
   min-width: 200px;
 }
 
@@ -386,6 +388,9 @@ form {
   font-family: $sansserif;
 }
 @media screen and (max-device-width: 1022px) {
+  .paralax {
+    background-attachment: scroll;
+  }
   .featured-img {
     padding-top: 1.5em;
     max-height: 40vh;
