@@ -1,0 +1,55 @@
+{% capture overlay_img_path %}{{ page.header.overlay_image | relative_url }}{% endcapture %} {% if
+page.header.overlay_filter contains "gradient" %} {% capture overlay_filter %}{{ page.header.overlay_filter }}{%
+endcapture %} {% elsif page.header.overlay_filter contains "rgba" %} {% capture overlay_filter %}{{
+page.header.overlay_filter }}{% endcapture %} {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{
+overlay_filter }}){% endcapture %} {% elsif page.header.overlay_filter %} {% capture overlay_filter %}rgba(0, 0, 0, {{
+page.header.overlay_filter }}){% endcapture %} {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{
+overlay_filter }}){% endcapture %} {% endif %} {% if page.header.image_description %} {% assign image_description =
+page.header.image_description %} {% else %} {% assign image_description = page.title %} {% endif %} {% assign
+image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
+
+<div
+  class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %} hero_landing"
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+>
+  {% if page.header.overlay_color or page.header.overlay_image %}
+  <div class="wrapper hero-landing__container">
+    <div class="hero-landing__column">
+      <h2>{{ page.header.title }}</h2>
+      <p>{{ page.header.description }}</p>
+      <div class="center">
+        <a href="https://www.amazon.com/We-No-Speak-Americano-Estudiar/dp/154535667X"
+          ><img
+            src="/wenospeakamericano/assets/images/buy-button-amazon-x50.png"
+            alt="Buy We No Speak Americano in Amazon"
+            class="logo-amazon"
+        /></a>
+      </div>
+    </div>
+    <div class="hero-landing__column center">
+      <a href="https://www.amazon.com/We-No-Speak-Americano-Estudiar/dp/154535667X"></a>
+        <img
+          class="featured-img"
+          src="/wenospeakamericano/assets/images/libro800.png"
+          alt="Buy We No Speak Americano book in Amazon"
+      /></a>
+    </div>
+  </div>
+
+  {% endif %}
+</div>
+
+{% assign features_row = page.features_row %}
+<div class="wrapper hero-landing__features">
+  {% for f in features_row %}
+  <div class="hero-landing__feature">
+    <div class="hero-landing__feature_icon">
+      <i class="{{ f.icon | default: 'fas fa-icons' }}"></i>
+    </div>
+    <div class="hero-landing__feature_text">
+      <h2>{{ f.title | default: 'title' }}</h2>
+      <p>{{ f.description | default: 'description' }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
