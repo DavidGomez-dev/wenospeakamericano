@@ -160,6 +160,14 @@ $cooper: "cooper-black-std", serif !default;
   border-radius: 0 !important;
 }
 
+.author__avatar {
+  min-width: 100px !important;
+}
+
+.greedy-nav a {
+  margin: 0 0.5rem !important;
+}
+
 .author__bio.p-note img {
   margin-top: 1rem;
 }
@@ -302,6 +310,7 @@ $cooper: "cooper-black-std", serif !default;
 .fixed-notice__column {
   padding: 1em;
   max-width: 50vw;
+  min-width: 200px;
 }
 
 .input-group {

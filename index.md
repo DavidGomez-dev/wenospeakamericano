@@ -118,9 +118,11 @@ Un libro que te acompañará desde antes de pasar la frontera hasta que seas un 
 {% include amazon_row %}
 
 <div class="fixed-notice">
-  <div class="fixed-notice__column">
-    <h3>Cap 5. Estudiar en EEUU</h3>
-    <p>Suscríbete y descarga gratis el capítulo 5, con los trucos para acceder a una universidad de Estados Unidos. Más de 25 páginas de información totalmente gratuita. </p>
+  <div class="fixed-notice__column" markdown="1">
+### Cap 5. Estudiar en EEUU
+
+Suscríbete y **descarga gratis** el capítulo 5, con los trucos para acceder a una universidad de Estados Unidos. **Más de 25 páginas de información** totalmente gratuita.
+
   </div>
   <div class="fixed-notice__column">
   <!-- Begin Mailchimp Signup Form -->
