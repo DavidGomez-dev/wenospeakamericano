@@ -20,8 +20,30 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[page.lang].powered_by
-  | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
-  <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+<div class="wrapper hero-landing__container hero-footer">
+  <div class="hero-landing__column">
+    <h2>We No Speak Americano</h2>
+    <p>{% if page.lang=='es-ES' %}La mejor libro - guía que se ha escrito para estudiar, trabajar o vivir en Estados Unidos.{% else %}The best book for knowing how to study, work or live in the United States.{% endif %}</p>
+    <div class="center">
+      <a href="https://www.amazon.com/We-No-Speak-Americano-Estudiar/dp/154535667X"
+        ><img
+          src="/assets/images/buy-button-amazon-x50.png"
+          alt="Buy We No Speak Americano in Amazon"
+          class="logo-amazon"
+      /></a>
+    </div>
+  </div>
+  <div class="hero-landing__column center">
+    <a href="https://www.amazon.com/We-No-Speak-Americano-Estudiar/dp/154535667X"></a>
+      <img
+        class="featured-img"
+        src="/assets/images/libro800.png"
+        alt="Buy We No Speak Americano book in Amazon"
+    /></a>
+  </div>
 </div>
+
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+</div>
+

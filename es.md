@@ -4,7 +4,7 @@
 
 title: "We No Speak Americano | Book to emigrate to United States"
 layout: splash-hero
-lang: en-US
+lang: es-ES
 menu: false
 ref: index
 author_profile: false
@@ -96,7 +96,7 @@ amazon_reviews:
   </div>
 </div>
 
-# Libro "We no Speak Americano": la mejor guía para emigrar a Estados Unidos
+# BOOOYA Libro "We no Speak Americano": la mejor guía para emigrar a Estados Unidos
 
 ### Toda la información para Estudiar, Trabajar o Vivir en Estados Unidos
 
@@ -214,11 +214,10 @@ No obstante, aunque la realidad es dura, hemos escrito este libro para darte las
 {% include paralax_row id="paralax_row3" type="left" %}
 
 <script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function () {
+    $( document ).ready(function(){
         var userLang = navigator.language || navigator.userLanguage;
-        console.log("userLang: ",userLang)
         if ((userLang.slice(0,2) == "es")) {
-            window.location.href = "/es/"
+            window.location.href = "index_es.html"
         }
-    }, false);
+    });
 </script>

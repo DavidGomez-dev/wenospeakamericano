@@ -74,14 +74,15 @@ breadcrumbs.html %} {% endunless %} {% endif %}
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %} {% if page.id and
-  page.related and site.related_posts.size > 0 %}
+  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %} {% assign sitepostslang =
+  site.posts | where: "lang", page.lang %} {% if page.id and page.related and sitepostslang.size > 0 %}
   <div class="page__related">
     <h2 class="page__related-title">
       {{ site.data.ui-text[page.lang].related_label | default: "You May Also Enjoy" }}
     </h2>
     <div class="grid__wrapper">
-      {% for post in site.related_posts limit:4 %} {% include archive-single.html type="grid" %} {% endfor %}
+      {% for post in sitepostslang limit:4 %} {% unless page.url==post.url %} {% include archive-single.html type="grid"
+      %} {% endunless %} {% endfor %}
     </div>
   </div>
   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %} {% elsif page.id

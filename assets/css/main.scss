@@ -108,7 +108,7 @@ $cooper: "cooper-black-std", serif !default;
   height: 18px;
   margin-right: 9px;
   display: inline-block;
-  background-image: url("assets/images/amazon-assets.png");
+  background-image: url("../../assets/images/amazon-assets.png");
   -webkit-background-size: 512px 512px;
   background-size: 512px 512px;
   background-repeat: no-repeat;
@@ -183,12 +183,6 @@ $cooper: "cooper-black-std", serif !default;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center left;
-}
-
-.page__content p,
-.page__content li,
-.page__content dl {
-  font-size: 1.1em !important;
 }
 
 .paralax .archive__item {
@@ -311,7 +305,7 @@ $cooper: "cooper-black-std", serif !default;
 
 .fixed-notice__column {
   padding: 1em;
-  max-width: 800px;
+  max-width: 650px;
   min-width: 200px;
 }
 
@@ -334,7 +328,7 @@ $cooper: "cooper-black-std", serif !default;
   display: block;
   width: 100%;
   padding: 0.375rem 0.75rem;
-  font-size: 0.75rem;
+  font-size: 16px;
   color: white;
   background-color: $ofblue;
   background-clip: padding-box;
@@ -387,7 +381,31 @@ form {
   padding-top: 10px;
   font-family: $sansserif;
 }
+
+.hero-footer {
+  padding: 0 0 1em !important;
+  justify-content: flex-start !important;
+}
+
+.hero-footer h2 {
+  font-size: 1em;
+}
+
+.hero-footer img {
+  max-height: 200px;
+  padding-top: 0 !important;
+}
+
 @media screen and (max-device-width: 1022px) {
+  .d-none {
+    display: none;
+  }
+  .page__content p,
+  .page__content li,
+  .page__content dl {
+    font-size: 1.1em !important;
+  }
+
   .paralax {
     background-attachment: scroll;
   }
