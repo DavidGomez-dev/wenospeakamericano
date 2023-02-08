@@ -15,7 +15,7 @@ header:
 
 Dependiendo del tiempo que quieras estar en Estados Unidos y lo que vayas a hacer allí, es muy posible que necesites alguno de los diferentes tipos de visados.
 
-![Entering in the USA joke](../assets/images/june-cartoon-2017_v2.jpeg)
+![Entering in the USA joke](/assets/images/june-cartoon-2017_v2.jpeg){: .align-center}
 
 Los diferentes tipos de Visados se denominan con letras y los subtipos añadiendo números, por ejemplo, H-1, A-2, EB-5, etc. Y **hay al menos más de 10 tipos distintos, cada uno con sus derechos y obligaciones**. La Visa será un papel que pegarán en tu pasaporte, con unas fechas de validez independientes a la validez del propio pasaporte. Puede ocurrir que tengas la Visa en un pasaporte caducado, tendrás que consérvalo en todo caso.
 

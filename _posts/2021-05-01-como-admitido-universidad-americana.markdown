@@ -20,19 +20,20 @@ Por esta razón, no es recomendable solicitar admisión en tan sólo una o dos u
 
 El factor tiempo es clave en este proceso de solicitud de admisión, pues se recomienda comenzar a rellenar y recaudar documentos al menos con un año de antelación.
 
-Los documentos a rellenar son bastatnes ya que las universidades americanas así lo requieren cuando se trata de estudiantes extranjeros.
+Los documentos a rellenar son bastantes ya que las universidades americanas así lo requieren cuando se trata de estudiantes extranjeros.
 
 Los documentos requeridos, en general, por la mayoría de las universidades, y se deben enviar como mes límite antes de diciembre generalmente, son:
 
-Statement of purpose
-Tasas de solicitud de admisión no reembolsables
-Resumé
-GRE y/o GMAT para estudiantes de grado y SAT o ACT para estudiantes de pregrado
-TOEFL
-Traducción de notas académicas por organizaciones internacionales
-Certificaciones académicas oficiales (no copias)
-Cartas de recomendación
-Certificados de responsabilidad financiera
+* Statement of purpose
+* Tasas de solicitud de admisión no reembolsables
+* Resumé
+* GRE y/o GMAT para estudiantes de grado y SAT o ACT para estudiantes de pregrado
+* TOEFL
+* Traducción de notas académicas por organizaciones internacionales
+* Certificaciones académicas oficiales (no copias)
+* Cartas de recomendación
+* Certificados de responsabilidad financiera
+
 Uno de los documentos críticos en los que las universidades basan su decisión para aceptar o no a posibles estudiantes, es la llamada “statement of purpose ” o carta de propósito. En esta carta, el solicitante explica las razones que le llevan a elegir el programa para el cual solicita plaza y por qué puede estar más cualificado que otros solicitantes que compiten por la plaza.
 
 En este caso es importante remarcar cómo el perfil del estudiante encaja en el programa para el cual está aplicando. Así, las universidades no sólo revisarán que motivó al solicitante a optar por ese programa, sino también por qué se decidió por esa universidad en concreto. También tendrán en cuenta el background o vida profesional y educación, así como asuntos personales que hacen que se decida por este programa de estudios.

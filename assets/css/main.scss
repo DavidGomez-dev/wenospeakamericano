@@ -289,6 +289,19 @@ $cooper: "cooper-black-std", serif !default;
   padding-right: 1em;
 }
 
+.blog-notice {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  background-color: rgb(218, 218, 218);
+  padding-left: 1em;
+  padding-right: 1em;
+  border-radius: 1em;
+}
+
 .fixed-notice_top {
   position: absolute;
   top: 0;
@@ -384,7 +397,11 @@ form {
 
 .hero-footer {
   padding: 0 0 1em !important;
-  justify-content: flex-start !important;
+  justify-content: space-between !important;
+}
+
+.hero-footer .hero-landing__column {
+  max-width: 700px;
 }
 
 .hero-footer h2 {
@@ -392,8 +409,18 @@ form {
 }
 
 .hero-footer img {
-  max-height: 200px;
+  max-height: 300px;
   padding-top: 0 !important;
+  margin-top: 1em !important;
+}
+
+.color-white {
+  color: black !important;
+}
+
+.archive_wide {
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 @media screen and (max-device-width: 1022px) {

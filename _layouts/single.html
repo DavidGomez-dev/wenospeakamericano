@@ -61,6 +61,90 @@ breadcrumbs.html %} {% endunless %} {% endif %}
         {% endif %}
       </section>
 
+      <section>
+        <div class="blog-notice">
+          <div class="fixed-notice__column">
+            {% if page.lang=="es-ES" %}
+            <h3>🤓 ¿Quieres saber más?</h3>
+            <p>
+              Suscríbete a nuestra newsletter y podrás descargar un completo esquema para saber qué opciones de visado
+              se adaptan a tu caso.
+            </p>
+            {% else %}
+            <h3>🎉 New 2nd edition in English<span class="d-none"> coming</span> soon</h3>
+            <p>Join the waiting list to find out when is for sale</p>
+            {% endif %}
+          </div>
+          <div class="fixed-notice__column">
+            <!-- Begin Mailchimp Signup Form -->
+            <div id="mc_embed_signup">
+              <form
+                action='{% if page.lang=="es-ES" %}{{ site.subscriptions.subscribed_ESP }}{% else %}{{ site.subscriptions.waiting_ENG }}{% endif %}'
+                method="post"
+                id="mc-embedded-subscribe-form"
+                name="mc-embedded-subscribe-form"
+                class="validate"
+                target="_self"
+              >
+                <div hidden="true"><input type="hidden" name="tags" value="6818053" /></div>
+                <div id="mc_embed_signup_scroll">
+                  <div class="mc-field-group input-group">
+                    <input
+                      type="email"
+                      value=""
+                      name="EMAIL"
+                      class="required email form-control"
+                      id="mce-EMAIL"
+                      required
+                      placeholder="email@domain.com"
+                    />
+                    <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+                    <input
+                      type="submit"
+                      value='{% if page.lang=="es-ES" %}Unirse →{% else %}Join →{% endif %}'
+                      name="subscribe"
+                      id="mc-embedded-subscribe"
+                      class="button btn"
+                    />
+                  </div>
+                  <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                    <div class="content__gdpr">
+                      <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                        <label class="checkbox subfield" for="gdpr_66753"
+                          ><input
+                            type="checkbox"
+                            id="gdpr_66753"
+                            name="gdpr[66753]"
+                            value="Y"
+                            class="av-checkbox"
+                            required
+                          /><span
+                            >I agree to receive advertising emails<span class="d-none">
+                              being able to cancel the subscription at any time</span
+                            ><a target="_blank" class="color-white" href="https://www.sendinblue.com/legal/termsofuse/">
+                              terms of use.</a
+                            ></span
+                          >
+                        </label>
+                      </fieldset>
+                    </div>
+                  </div>
+                  <div id="mce-responses" class="clear foot">
+                    <div class="response" id="mce-error-response" style="display: none"></div>
+                    <div class="response" id="mce-success-response" style="display: none"></div>
+                  </div>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px" aria-hidden="true">
+                    <input type="text" name="b_93c113af725dcda60bf8d1639_662ffeb9d8" tabindex="-1" value="" />
+                  </div>
+                </div>
+              </form>
+            </div>
+            <!--End mc_embed_signup-->
+          </div>
+        </div>
+      </section>
+
       <footer class="page__meta">
         {% if site.data.ui-text[page.lang].meta_label %}
         <h4 class="page__meta-title">{{ site.data.ui-text[page.lang].meta_label }}</h4>
@@ -75,7 +159,10 @@ breadcrumbs.html %} {% endunless %} {% endif %}
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %} {% assign sitepostslang =
-  site.posts | where: "lang", page.lang %} {% if page.id and page.related and sitepostslang.size > 0 %}
+  site.posts | where: "lang", page.lang %} {% assign min = 0 %} {% assign max = 6 %} {% assign diff = max | minus: min
+  %} {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %} {% for i in (1..randomNumber) %} {%
+  assign sitepostslang = sitepostslang | shift %} {% endfor %} {% if page.id and page.related and sitepostslang.size > 0
+  %}
   <div class="page__related">
     <h2 class="page__related-title">
       {{ site.data.ui-text[page.lang].related_label | default: "You May Also Enjoy" }}

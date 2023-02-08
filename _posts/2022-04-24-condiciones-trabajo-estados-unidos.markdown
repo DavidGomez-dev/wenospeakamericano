@@ -2,7 +2,7 @@
 layout: single
 title: "Condiciones de trabajo en Estados Unidos: dinero y motivación"
 lang: es-ES
-ref: dependientes
+ref: condiciones
 date: 2022-04-24 16:46:57 +0100
 categories: trabajar-en-USA
 tags: e-verify salario seguro médico trabajar vacaciones

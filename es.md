@@ -67,7 +67,7 @@ amazon_reviews:
   <div class="fixed-notice__column">
   <!-- Begin Mailchimp Signup Form -->
     <div id="mc_embed_signup">
-        <form action="https://lifexpandusa.us13.list-manage.com/subscribe/post?u=93c113af725dcda60bf8d1639&amp;id=662ffeb9d8&amp;v_id=4941&amp;f_id=00ca93e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+        <form action="{{ site.subscriptions.waiting_ESP }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
             <div hidden="true"><input type="hidden" name="tags" value="6818053"></div>
             <div id="mc_embed_signup_scroll">
                 <div class="mc-field-group input-group">
@@ -96,7 +96,9 @@ amazon_reviews:
   </div>
 </div>
 
-# BOOOYA Libro "We no Speak Americano": la mejor guía para emigrar a Estados Unidos
+[Change to english 🇺🇸](/){: .align-right }
+
+# Libro "We no Speak Americano": la mejor guía para emigrar a Estados Unidos
 
 ### Toda la información para Estudiar, Trabajar o Vivir en Estados Unidos
 
@@ -115,44 +117,6 @@ El texto está preparado para soportar los previsibles cambios legislativos de l
 Un libro que te acompañará desde antes de pasar la frontera hasta que seas un americano más.
 
 {% include amazon_row %}
-
-<div class="fixed-notice">
-  <div class="fixed-notice__column" markdown="1">
-### Cap 5. Estudiar en EEUU
-
-Suscríbete y **descarga gratis** el capítulo 5, con los trucos para acceder a una universidad de Estados Unidos. **Más de 25 páginas de información** totalmente gratuita.
-
-  </div>
-  <div class="fixed-notice__column">
-  <!-- Begin Mailchimp Signup Form -->
-    <div id="mc_embed_signup">
-        <form action="https://lifexpandusa.us13.list-manage.com/subscribe/post?u=93c113af725dcda60bf8d1639&amp;id=662ffeb9d8&amp;v_id=4941&amp;f_id=00ca93e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
-            <div id="mc_embed_signup_scroll">
-                <div class="mc-field-group input-group">
-	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
-	                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-                     <input type="submit" value="Suscribirse →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
-                </div>
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>Estoy de acuerdo en recibir emails publicitarios y poder anular la subscripción en cualquier momento.</span> </label>
-                    </fieldset>
-                </div>
-            </div>
-            <div id="mce-responses" class="clear foot">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                <input type="text" name="b_93c113af725dcda60bf8d1639_662ffeb9d8" tabindex="-1" value="">
-            </div>
-            </div>
-        </form>
-    </div>
-    <!--End mc_embed_signup-->
-  </div>
-</div>
 
 {% include paralax_row id="paralax_row1" type="left" %}
 
@@ -195,6 +159,44 @@ En muchas aplicaciones online para trabajos, ya te preguntarán directamente si 
 
 No obstante, aunque la realidad es dura, hemos escrito este libro para darte las claves y orientarte hacia el camino que más opciones te dará para conseguir tu objetivo de vivir y trabajar en EEUU. En el árbol de decisión que se ajunta en el libro se resume de forma sencilla las claves de cada Visa.
 
+<div class="fixed-notice">
+  <div class="fixed-notice__column" markdown="1">
+### 🆓 Descarga Gratis 🎊
+
+Suscríbete y <ins>**descarga gratis**</ins> un completo esquema que te guiará para seleccionar el visado que más te conviene.
+
+  </div>
+  <div class="fixed-notice__column">
+  <!-- Begin Mailchimp Signup Form -->
+    <div id="mc_embed_signup">
+        <form action="{{ site.subscriptions.subscribed_ESP }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+            <div id="mc_embed_signup_scroll">
+                <div class="mc-field-group input-group">
+	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
+	                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+                     <input type="submit" value="Suscribirse →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
+                </div>
+            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                <div class="content__gdpr">
+                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>Estoy de acuerdo en recibir emails publicitarios y poder anular la subscripción en cualquier momento.</span> </label>
+                    </fieldset>
+                </div>
+            </div>
+            <div id="mce-responses" class="clear foot">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <input type="text" name="b_93c113af725dcda60bf8d1639_662ffeb9d8" tabindex="-1" value="">
+            </div>
+            </div>
+        </form>
+    </div>
+    <!--End mc_embed_signup-->
+  </div>
+</div>
+
 {% include paralax_row id="paralax_row2" type="right" %}
 
 ### ¿Quieres saber más?
@@ -214,10 +216,11 @@ No obstante, aunque la realidad es dura, hemos escrito este libro para darte las
 {% include paralax_row id="paralax_row3" type="left" %}
 
 <script type="text/javascript">
-    $( document ).ready(function(){
+    document.addEventListener('DOMContentLoaded', function () {
         var userLang = navigator.language || navigator.userLanguage;
+        console.log("userLang: ",userLang)
         if ((userLang.slice(0,2) == "es")) {
-            window.location.href = "index_es.html"
+            window.location.href = "/es/"
         }
-    });
+    }, false);
 </script>

@@ -12,62 +12,63 @@ date:
 header:
   overlay_image: "/assets/images/47899829_m.jpg"
   overlay_filter: "linear-gradient(to right bottom,rgba(60, 60, 110,0.8), rgba(178, 34, 52, 0.5))"
-  title: "Lee el libro que hará realidad tu sueño americano"
-  description: "Hazte ya con el mejor libro - guía que se ha escrito para estudiar, trabajar o vivir en Estados Unidos"
+  title: "Read the book that will make your American dream come true"
+  description: "Get now  the best book - guide that has been written to study, work or live in the United States.<br>
+  (current edition only in Spanish)."
 features_row:
   - icon: "fas fa-file-alt"
     title: "276"
-    description: "páginas"
+    description: "pages"
   - icon: "fas fa-book"
     title: "22"
-    description: "capítulos"
+    description: "chapters"
   - icon: "fas fa-wallet"
     title: ">500"
-    description: "unidades vendidas"
+    description: "units sold"
 paralax_row1:
   - image_path: /assets/images/chaplinpuntos-banner.jpg
-    title: "«En Estados Unidos tendrás que volver a bautizarte»"
-    excerpt: Adivina porqué en esta increíble guía.
+    title: "«In the United States you will have to baptize yourself again»"
+    excerpt: Learn why in this incredible guide.
 paralax_row2:
   - image_path: /assets/images/ebook_bill_banner.jpg
     title: "«Go Big or Go Home»"
-    excerpt: Compra ya la mejor guía que se ha escrito para emigrar a Estados Unidos.
+    excerpt: Buy the best guide that has been written to emigrate to the United States.
 paralax_row3:
   - image_path: /assets/images/jonnycase_banner.jpg
-    title: "«Nunca, nunca, nunca aceptes el primer precio que te ofrezcan»"
-    excerpt: Conoce los trucos para negociar tu salario o comprar un coche.
+    title: "«Never, never, never accept the first price they offer you»"
+    excerpt: Know the tricks to negotiate your salary or buy a car like a local.
 amazon_reviews:
   general_link: "https://www.amazon.com/-/es/David-G%C3%B3mez-Jim%C3%A9nez/dp/154535667X/#reviewsMedley"
   general_review: "4,4 de 5"
   general_count: "25 calificaciones globales"
   reviews:
     - name: "Jose Luis"
-      tagline: "Excelente guía para todo aquel que quiera iniciar la aventura americana!!!"
-      location: "Calificado en España el 29 de agosto de 2017"
-      review: "Absolutamente recomendable para iniciar el camino del sueño americano.
-    USA ofrece mil oportunidades pero al mismo tiempo conseguir vivir allí con normalidad resulta complicado, así que con esta guía el camino, sin duda, será más fácil."
+      tagline: "Excellent guide for anyone who wants to start the American adventure!!!"
+      location: "Reviewed in Spain on August 29, 2017"
+      review: "Absolutely recommended to start the American sleep path.
+    USA offers a thousand opportunities but at the same time getting living there normally, it is complicated, so with this guide the road will undoubtedly be easier."
       link: "https://www.amazon.com/-/es/David-G%C3%B3mez-Jim%C3%A9nez/dp/154535667X/#customer_review_foreign-R1MQVGB9VS66PA" 
     - name: "Amazon Customer"
       tagline: "A must read"
-      location: "Calificado en Estados Unidos el 4 de julio de 2017"
-      review: "Un libro esencial para aquellos que quieran emigrar o pasar un tiempo de su vida en Estados Unidos, estudiando o trabajando. Después de tres años viviendo en Estados Unidos, We No Speak Americano sigue aclarándome dudas que siempre surgen cuando quieres cambiar de visa."
+      location: "Reviewed in the United States on July 4, 2017"
+      review: "An essential book for those who want to emigrate or spend time in their lives in the United States, studying or working. After three years living in the United States, We No Speak Americano continues to clarify doubts that always arise when you want to change visa."
       link: "https://www.amazon.com/-/es/David-G%C3%B3mez-Jim%C3%A9nez/dp/154535667X/#customer_review-ROK0A1M6PTUYE" 
     - name: "Matias"
-      tagline: "Muy útil"
-      location: "Calificado en Estados Unidos el 13 de marzo de 2019"
-      review: "Muy buen libro para orientar y sacar muchas dudas si tienes pensado en emigrar a eeuu, recomendado totalmente."
+      tagline: "Very useful"
+      location: "Reviewed in the United States on March 13, 2019"
+      review: "Very good book to guide and get many doubts if you plan to emigrate to the US, totally recommended."
       link: "https://www.amazon.com/-/es/David-G%C3%B3mez-Jim%C3%A9nez/dp/154535667X/#customer_review-R2704FO34DXB1N" 
 ---
 
 <div class="fixed-notice fixed-notice_top">
   <div class="fixed-notice__column">
-    <h3>🎉 Nueva 2ª edición <span class="d-none">disponible </span>muy pronto</h3>
-    <p>Únete a la lista de espera para enterarte cuando esté a la venta</p>
+    <h3>🎉 New 2nd edition in English<span class="d-none"> coming</span> soon</h3>
+    <p>Join the waiting list to find out when is for sale</p>
   </div>
   <div class="fixed-notice__column">
   <!-- Begin Mailchimp Signup Form -->
     <div id="mc_embed_signup">
-        <form action="https://lifexpandusa.us13.list-manage.com/subscribe/post?u=93c113af725dcda60bf8d1639&amp;id=662ffeb9d8&amp;v_id=4941&amp;f_id=00ca93e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+        <form action="{{ site.subscriptions.waiting_ENG }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
             <div hidden="true"><input type="hidden" name="tags" value="6818053"></div>
             <div id="mc_embed_signup_scroll">
                 <div class="mc-field-group input-group">
@@ -78,7 +79,7 @@ amazon_reviews:
             <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                 <div class="content__gdpr">
                     <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>Estoy de acuerdo en recibir emails publicitarios<span class="d-none"> y poder anular la subscripción en cualquier momento</span>.</span> </label>
+		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>I agree to receive advertising emails<span class="d-none"> being able to cancel the subscription at any time</span><a target="_blank" class="color-white" href="https://www.sendinblue.com/legal/termsofuse/"> terms of use.</a></span> </label>
                     </fieldset>
                 </div>
             </div>
@@ -96,37 +97,79 @@ amazon_reviews:
   </div>
 </div>
 
-# Libro "We no Speak Americano": la mejor guía para emigrar a Estados Unidos
+[Cambiar a español 🇪🇸](/es/){: .align-right }
 
-### Toda la información para Estudiar, Trabajar o Vivir en Estados Unidos
+# Book "We No Speak Americano": The best guide to emigrate to the United States
 
-We No Speak Americano es la guía definitiva que necesitas para estudiar, trabajar o vivir en Estados Unidos. Es probablemente la obra más completa que se ha escrito sobre todos los trámites, documentos, pasos y trucos que hay que dar para tener éxito en el país. Recoge más de seis años de trabajo de investigación y vivencias personales de David Gómez y Laura Carreño, que han asesorado con éxito a decenas de personas en conseguir su sueño de emigrar a USA.
+### All information to study, work or live in the United States
 
-En un tono desenfadado pero objetivo y claro, se explican la multitud de conceptos, normas y peculiaridades del país americano. Es difícil encontrar tanta información estructurada y de tan fácil lectura. Mezclado con divertidas anécdotas y reflexiones personales, se pone en contexto y se consigue comprender la curiosa sociedad estadounidense, un modelo que se alaba desde fuera pero que está lleno de sombras.
+We No American Speak is the definitive guide you need to study, work or live in the United States. It is probably the most complete work that has been written about all the procedures, documents, steps and tricks to be given to succeed in the country. It collects more than six years of research and personal experiences of David Gómez and Laura Carreño, who have successfully advised dozens of people to get their dream of emigrating to the USA.
+
+In a casual but objective tone, the multitude of concepts, norms and peculiarities of the American country are explained. It is difficult to find so much structured and so easy to read information.Mixed with funny anecdotes and personal reflections, it is put in context and it is possible to understand the curious American society, a model that praises from outside but that is full of shadows.
 
 ![Buy We No Speak Americano book in Amazon](/assets/images/we-no-speak-americano-book.jpg){: .align-left}
 
-Conceptos como el visado F, el OPT, el Social Security, el credit history, el sexual harrassment, las taxes, el permiso de empleo o la importancia de los attorneys, son tratados con precisión y sencillez.
+Concepts such as visa F, OPT, the social Security, the Credit History, the sexual Harrassment, the Taxes, the Employment Permit or the importance of the Attorneys, are treated with precision and simplicity.
 
-Sus más de 250 páginas están estructuradas en 22 capítulos y 5 secciones: Visados y documentos legales para estar en el país, Trámites para estudiar en EEUU y trabajar después, Encontrar empleo y tener éxito en él, Gestiones habituales para vivir como encontrar casa, coche o lidiar con bancos o impuestos y, por último, Afrontar el retorno al país de origen.
+Its more than 250 pages are structured in 22 chapters and 5 sections: visas and legal documents to be in the country, procedures to study in the US and work later, find employment and succeed in it, usual steps to live as find a house, car, caror deal with banks or taxes and, finally, face the return to the country of origin.
 
-El texto está preparado para soportar los previsibles cambios legislativos de la era Trump, profundizando en los hechos que explican el ascenso del nacionalismo y descubriendo el futuro más cercano.
+The text is prepared to support the foreseeable legislative changes of each political cycle, deepening the facts that explain the rise of nationalism and discovering the closest future.
 
-Un libro que te acompañará desde antes de pasar la frontera hasta que seas un americano más.
-
+A book that will accompany you from before passing the border until you are one more American.
 {% include amazon_row %}
+
+{% include paralax_row id="paralax_row1" type="left" %}
+
+<div class="author-card" markdown="1">
+
+### About the authors
+
+<div class="author-row" markdown="1">
+
+<div class="author_photo" markdown="1">
+![Laura Carreño](assets/images/Laura-Carreno.jpg){: .align-left}
+</div>
+<div  class="author_text" markdown="1">
+David Gómez, Professional Engineer, and Laura Carreño, MA in Human Resources, know firsthand what it means emigrating to the United States. During their stay of more than 6 years in California they have gone through almost all stages of the emigrant: tourists, study in a university, find work there (several times), settle, work as expatriates and finally return to their country.
+
+Thanks to their work in the Trade Commission of Spain and several multinational companies, they have helped numerous people to solve their questions about how to study, work or live in the United States.
+
+Now summarize all that research and experience work so that you have the necessary information to succeed in the American country.
+
+</div>
+<div class="author_photo" markdown="1">
+![David Gomez](assets/images/David-Gomez.jpg){: .align-right} 
+</div>
+</div>
+</div>
+
+### Why is it difficult to emigrate to the United States?
+
+text extracted from the book We No Speak Americano
+
+There are different visas that allow us to go to the United States depending on the activity to be done. Being short periods for tourism or businesses is simple, staying longer to study is not a problem, but, working, is usually much more complicated.There is a saying for permanent residence, which is achieved only by one of the three "L" (work, love or lottery).
+
+American companies can only hire people who are authorized to work, if not, they would be hiring illegal and risking important fines. It is even illegal to hire a worker and that the company does not verify that it is authorized to work (with the form I-9 or the E-Verify program). It is also illegal to subcontract jobs to other companies that have illegal workers. And as laws in the United States are respected and enforced, employers have great aversion and fear of hiring anyone who does not have permission, the more the company is and the more professional is the position. In addition, in many professions, American licenses or certifications are necessary to be able to exercise, as doctors, lawyers or engineers.
+
+For an American company to hire a foreigner, or he already has permission (with Opt, Green Card, etc.) or has to sponsor for an H (the most usual), or, J, or Green Card. But that process has costs, it is long (it can take months) and it is risky (the visa may not be granted, because it falls into the Lottery of the H, for example). Foreign companies have some more option with the Visa e or the L.
+
+Therefore, except for very exclusive or that there is a lack of such professionals, American companies, in general, avoid sponsorizing at all costs.
+
+In many online applications for jobs, they will ask you directly if you have permission to work or if you need sponsors.If so, do not even call you. People who come with tourism visas to try a few months have almost no option to be hired.
+
+However, although the reality is hard, we have written this book to give you the keys and guide you towards the path that will give you more options to achieve your goal of living and working in the US.In the decision tree that is recorded in the book, the keys of each visa are summarized in a simple way.
 
 <div class="fixed-notice">
   <div class="fixed-notice__column" markdown="1">
-### Cap 5. Estudiar en EEUU
+### 🆓 Free download 🎊
 
-Suscríbete y **descarga gratis** el capítulo 5, con los trucos para acceder a una universidad de Estados Unidos. **Más de 25 páginas de información** totalmente gratuita.
+Join our waiting list and <ins>**Download for free**</ins> a complete scheme that will guide you to select the visa that suits you.
 
   </div>
   <div class="fixed-notice__column">
-  <!-- Begin Mailchimp Signup Form -->
+  <!-- Begin Sendinblue Signup Form -->
     <div id="mc_embed_signup">
-        <form action="https://lifexpandusa.us13.list-manage.com/subscribe/post?u=93c113af725dcda60bf8d1639&amp;id=662ffeb9d8&amp;v_id=4941&amp;f_id=00ca93e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+        <form action="{{ site.subscriptions.waiting_ENG }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
             <div id="mc_embed_signup_scroll">
                 <div class="mc-field-group input-group">
 	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
@@ -136,7 +179,7 @@ Suscríbete y **descarga gratis** el capítulo 5, con los trucos para acceder a 
             <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                 <div class="content__gdpr">
                     <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>Estoy de acuerdo en recibir emails publicitarios y poder anular la subscripción en cualquier momento.</span> </label>
+		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>I agree to receive advertising emails and be able to cancel the subscription at any time, <a target="_blank" class="color-white" href="https://www.sendinblue.com/legal/termsofuse/">terms of use</a>.</span> </label>
                     </fieldset>
                 </div>
             </div>
@@ -154,52 +197,11 @@ Suscríbete y **descarga gratis** el capítulo 5, con los trucos para acceder a 
   </div>
 </div>
 
-{% include paralax_row id="paralax_row1" type="left" %}
-
-<div class="author-card" markdown="1">
-
-### Sobre los Autores
-
-<div class="author-row" markdown="1">
-
-<div class="author_photo" markdown="1">
-![Laura Carreño](assets/images/Laura-Carreno.jpg){: .align-left}
-</div>
-<div  class="author_text" markdown="1">
-David Gómez, Professional Engineer, y Laura Carreño, MA in Human Resources, conocen de primera mano lo que significa emigrar a Estados Unidos. Durante su estancia de más de 6 años en California han pasado por casi todas las etapas del emigrante: turistas, estudiar en una universidad, encontrar trabajo allí (varias veces), asentarse, trabajar como expatriados y finalmente regresar a su país.
-
-Gracias a sus trabajos en la Trade Commission of Spain y varias empresas multinacionales, han ayudado a numerosas personas a resolver sus preguntas sobre como estudiar, trabajar o vivir en Estados Unidos.
-
-Ahora resumen todo ese trabajo de investigación y vivencias propias para que tengas la información necesaria para triunfar en el país americano.
-
-</div>
-<div class="author_photo" markdown="1">
-![David Gomez](assets/images/David-Gomez.jpg){: .align-right} 
-</div>
-</div>
-</div>
-
-### ¿Por qué es difícil emigrar a Estados Unidos?
-
-texto extraído de We No Speak Americano
-
-Existen diferentes Visas que permiten ir a Estados Unidos dependiendo de la actividad que se vaya a hacer. Estar períodos cortos por turismo o negocios es sencillo, permanecer más tiempo para estudiar tampoco es un problema, pero, trabajar, suele ser bastante más complicado. Hay un dicho para la residencia permanente, que esta se consigue sólo por alguna de las tres “L” (Labor, Love o Lottery).
-
-Las empresas americanas sólo pueden contratar a personas que estén autorizadas a trabajar, si no, estarían contratando ilegales y arriesgándose a importantes multas. Incluso es ilegal contratar a un trabajador y que la empresa no verifique que tiene autorización para trabajar (con el Form I-9 o el programa e-verify). También es ilegal que subcontrate trabajos a otras empresas que tienen trabajadores ilegales. Y como las leyes en Estados Unidos se respetan y se hacen cumplir, los empleadores tienen gran aversión y miedo a contratar cualquier persona que no tenga permiso, más cuanto mayor es la empresa y más profesional es el puesto. Además, en muchas profesiones, son necesarias o recomendadas licencias o certificaciones americanas para poder ejercer, como médicos, abogados o ingenieros.
-
-Para que una empresa americana contrate a un extranjero, o bien este tiene ya permiso (con OPT, Green Card, etc.) o le tiene que sponsorizar para una Visa H (la más usual), O, J, o Green Card. Pero ese proceso tiene costes, es largo (puede llevar meses) y es arriesgado (la Visa puede no concederse, porque cae en la lotería de la H, por ejemplo). Empresas extranjeras tienen alguna opción más con la Visa E o la L.
-
-Por ello, salvo puestos muy exclusivos o que exista falta de ese tipo de profesionales, las empresas americanas, en general, evitan a toda costa sponsorizar.
-
-En muchas aplicaciones online para trabajos, ya te preguntarán directamente si tienes permiso para trabajar o si necesitas sponsor. Si es así, lo más probable es que ni te llamen. Personas que vienen con visados de turismo para probar unos meses no tienen realmente casi ninguna opción de ser contratados.
-
-No obstante, aunque la realidad es dura, hemos escrito este libro para darte las claves y orientarte hacia el camino que más opciones te dará para conseguir tu objetivo de vivir y trabajar en EEUU. En el árbol de decisión que se ajunta en el libro se resume de forma sencilla las claves de cada Visa.
-
 {% include paralax_row id="paralax_row2" type="right" %}
 
-### ¿Quieres saber más?
+### You want to know more?
 
-[Visita el Blog oficial](/wenospeakamericano/blog/)
+[Visit the official blog](/wenospeakamericano/blog/)
 
 {% assign entries_layout = 'grid' %}
 

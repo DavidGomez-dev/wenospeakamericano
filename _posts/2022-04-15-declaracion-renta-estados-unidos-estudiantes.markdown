@@ -14,7 +14,7 @@ header:
   teaser: /assets/images/olga-delawrence-5616whx5NdQ-unsplash.jpg
 ---
 
-Limitación de responsabilidad: lifexpandUSA no es un asesor legal, financiero o impositivo. La información aquí proporcionada no constituye ningún asesoramiento profesional que ha de ser realizado por las personas así acreditadas. Dicha información ha de ser tomada en cuenta por el lector bajo su propia responsabilidad.
+Limitación de responsabilidad: este blog no es un asesor legal, financiero o impositivo. La información aquí proporcionada no constituye ningún asesoramiento profesional que ha de ser realizado por las personas así acreditadas. Dicha información ha de ser tomada en cuenta por el lector bajo su propia responsabilidad.
 
 Si has estudiado o trabajado en EEUU con visa F, J, Q o M, es posible que tengas que hacer la declaración de la renta (income tax return) incluso aunque no hayas recibido ningún ingreso. Hay numerosos preparadores o gestores que lo pueden hacer cobrando (en torno a 50-100$) e incluso la propia universidad suele ofrecer asesoramiento gratuito. En general, los programas guiados tipo TurboTax u otros, no sirven para estudiantes internacionales puesto que no contemplan los formularios para non-resident de la renta americana. Incluso su uso puede llevar a presentar formularios equivocados y reclamaciones posteriores por el IRS (la Hacienda Americana).
 

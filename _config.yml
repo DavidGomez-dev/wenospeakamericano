@@ -286,3 +286,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Subscriptions
+subscriptions:
+  waiting_ENG: "https://85f33f8f.sibforms.com/serve/MUIEAI861wCO1Wf18wH0wRZzIKMpIuUrx4oNfSrkbkfQlRdI1z9iekGpJlMXEhTBeWbGoD7OeZd_HfogCZhVMqausv96jt8Yp7_9s2_KY08keLDTlPi4CP84K559lS4Fc11xxt0ppweadudqX31EARkMHC_Rhfey7EmFuW2LM0RZmc4mHLUM6jJMy0LLXOoR39rQPz0n2TmFFmdz"
+  waiting_ESP: "https://85f33f8f.sibforms.com/serve/MUIEAFSiz0YhHoEKT7IEPB-_GqltICF2nIp55Oll-ohpVzyXfMFgwR3Yot3YJcfxFtKeDl7RDxODQlAKACjuvlEDrw-abd62tYwKfbJMoxjd1Ck2mbJTRTsoVNKzBpdwu1q_3jXal5xLgdr5bK7g59MbxFZGWDGLjSybFC_blZ8Qg3OPmbIpFA-evmzuo1YsoYpqazs7MIsUaWzs"
+  subscribed_ESP: "https://85f33f8f.sibforms.com/serve/MUIEAFS8ifA-nQiChL0ZUPseg36WZaSyDVuv3SZVhdF6DPIQInePhC5iX6VvuCDLheCwyIszeVXwitKE4rD23UYUzT54NPBw1Xo6b2C2J3yhihmCCHySr0tAxt1m_CoSudyiZOPHLAovhLGRa-4On918QAgKmiHKO_nbqOn40cd6RYztw8VoLja-CLDkkkL4BDWxhV3p_Grlhh_m"
