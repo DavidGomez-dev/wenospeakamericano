@@ -6,7 +6,7 @@ ref: subscribed
 ---
 
 <br>
-# Subcribed succesfully!!
+# Subscribed succesfully!!
 
 ### Thank you very much for joining our list!
 

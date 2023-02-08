@@ -74,7 +74,7 @@ amazon_reviews:
                 <div class="mc-field-group input-group">
 	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
 	                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-                     <input type="submit" value="Unirse →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
+                     <input type="submit" value="Join →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
                 </div>
             <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                 <div class="content__gdpr">
@@ -174,7 +174,7 @@ Join our waiting list and <ins>**Download for free**</ins> a complete scheme tha
                 <div class="mc-field-group input-group">
 	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
 	                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-                     <input type="submit" value="Suscribirse →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
+                     <input type="submit" value="Subscribe →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
                 </div>
             <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                 <div class="content__gdpr">
