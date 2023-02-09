@@ -16,11 +16,11 @@ minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale: "en-US"
-title: "We No Speak Americano"
+title: "We No Speak Americano book"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "David Gomez"
-description: "An amazing website."
+description: "The best book and guide to study, work or live in the United States"
 url: "https://davidgomez-dev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "davidgomez-dev.github.io/wenospeakamericano" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

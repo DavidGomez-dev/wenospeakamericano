@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "We No Speak Americano | Book to emigrate to United States"
+title: "We No Speak Americano | Book to emigrate to the United States"
 layout: splash-hero
 lang: en-US
 menu: false
@@ -103,19 +103,19 @@ amazon_reviews:
 
 ### All information to study, work or live in the United States
 
-We No American Speak is the definitive guide you need to study, work or live in the United States. It is probably the most complete work that has been written about all the procedures, documents, steps and tricks to be given to succeed in the country. It collects more than six years of research and personal experiences of David Gómez and Laura Carreño, who have successfully advised dozens of people to get their dream of emigrating to the USA.
+We No American Speak is the definitive guide you need to **study, work or live in the United States**. It is probably the most complete work that has been written about all the procedures, documents, steps and tricks to succeed in the country. It collects more than six years of research and personal experiences of David Gomez and Laura Carreño, who have successfully advised dozens of people to **achieve their dream** of emigrating to the USA.
 
-In a casual but objective tone, the multitude of concepts, norms and peculiarities of the American country are explained. It is difficult to find so much structured and so easy to read information.Mixed with funny anecdotes and personal reflections, it is put in context and it is possible to understand the curious American society, a model that praises from outside but that is full of shadows.
+In a casual but objective tone, the multitude of concepts, norms and peculiarities of the American country are explained. It is difficult to find information so well structured and easy to read in other sources. Mixing **funny anecdotes** and personal reflections, it is possible to understand the curious American society, a model being praised from the outside but that is also full of shadows.
 
 ![Buy We No Speak Americano book in Amazon](/assets/images/we-no-speak-americano-book.jpg){: .align-left}
 
-Concepts such as visa F, OPT, the social Security, the Credit History, the sexual Harrassment, the Taxes, the Employment Permit or the importance of the Attorneys, are treated with precision and simplicity.
+Concepts such as visa F, OPT, _Social Security_, _Credit History_, _Sexual Harassment_, taxes, _the Employment Permit_ or the importance of attorneys, are treated with precision and simplicity.
 
-Its more than 250 pages are structured in 22 chapters and 5 sections: visas and legal documents to be in the country, procedures to study in the US and work later, find employment and succeed in it, usual steps to live as find a house, car, caror deal with banks or taxes and, finally, face the return to the country of origin.
+Its more than 250 pages are structured into 22 chapters and 5 sections: visas and legal documents to be in the country, procedures to study in the US and work later, finding employment and succeed in it, typical issues to live such as finding a house, car, or dealing with banks or taxes and, finally, coping with the return to the country of origin.
 
-The text is prepared to support the foreseeable legislative changes of each political cycle, deepening the facts that explain the rise of nationalism and discovering the closest future.
+The text is prepared to support legislative changes of each political cycle, deepening into the facts that explain the rise of nationalism and discovering the closest future.
 
-A book that will accompany you from before passing the border until you are one more American.
+A book that will accompany you from **before passing the border until you are one more American**.
 {% include amazon_row %}
 
 {% include paralax_row id="paralax_row1" type="left" %}
@@ -130,11 +130,11 @@ A book that will accompany you from before passing the border until you are one 
 ![Laura Carreño](assets/images/Laura-Carreno.jpg){: .align-left}
 </div>
 <div  class="author_text" markdown="1">
-David Gómez, Professional Engineer, and Laura Carreño, MA in Human Resources, know firsthand what it means emigrating to the United States. During their stay of more than 6 years in California they have gone through almost all stages of the emigrant: tourists, study in a university, find work there (several times), settle, work as expatriates and finally return to their country.
+David Gómez, Professional Engineer, and Laura Carreño, MA in Human Resources, know firsthand what it means to **emigrate to the United States**. During their stay of more than 6 years in California they have gone through almost all stages of the emigrant: tourists, study at a university, find work there (several times), settle, work as expatriates and finally return to their country.
 
-Thanks to their work in the Trade Commission of Spain and several multinational companies, they have helped numerous people to solve their questions about how to study, work or live in the United States.
+Thanks to their work in the Trade Commission of Spain and several multinational companies, they have helped numerous people to solve their questions about how to **study, work or live in the United States**.
 
-Now summarize all that research and experience work so that you have the necessary information to succeed in the American country.
+Now summarize all that research and experience work so that you have the necessary information **to succeed in the American country**.
 
 </div>
 <div class="author_photo" markdown="1">
@@ -145,19 +145,19 @@ Now summarize all that research and experience work so that you have the necessa
 
 ### Why is it difficult to emigrate to the United States?
 
-text extracted from the book We No Speak Americano
+text extracted from the book **We No Speak Americano**
 
-There are different visas that allow us to go to the United States depending on the activity to be done. Being short periods for tourism or businesses is simple, staying longer to study is not a problem, but, working, is usually much more complicated.There is a saying for permanent residence, which is achieved only by one of the three "L" (work, love or lottery).
+There are different visas that allow us to go to the United States depending on the activity to be done. Being short periods for tourism or businesses is simple, staying longer to study is not a problem, but, working, is usually much more complicated. There is a well-known saying that permanent residence is only achieved by one of the three "L" (_Labor, Love or Lottery_).
 
-American companies can only hire people who are authorized to work, if not, they would be hiring illegal and risking important fines. It is even illegal to hire a worker and that the company does not verify that it is authorized to work (with the form I-9 or the E-Verify program). It is also illegal to subcontract jobs to other companies that have illegal workers. And as laws in the United States are respected and enforced, employers have great aversion and fear of hiring anyone who does not have permission, the more the company is and the more professional is the position. In addition, in many professions, American licenses or certifications are necessary to be able to exercise, as doctors, lawyers or engineers.
+American companies can only hire people who are authorized to work, if not, they would be hiring illegally and risking important fines. It is even illegal to hire a worker who the company has not previously verified that is indeed authorized to work (with the form I-9 or the _E-Verify_ program). It is also illegal to subcontract jobs to other companies that have illegal workers. Since laws in the United States are respected and enforced, employers have great aversion and fear of hiring anyone who does not have permission, the more the bigger the company is and the more professional the position is. In addition, in many professions, American licenses or certifications are necessary to be able to exercise, as doctors, lawyers or engineers.
 
-For an American company to hire a foreigner, or he already has permission (with Opt, Green Card, etc.) or has to sponsor for an H (the most usual), or, J, or Green Card. But that process has costs, it is long (it can take months) and it is risky (the visa may not be granted, because it falls into the Lottery of the H, for example). Foreign companies have some more option with the Visa e or the L.
+For an American company to hire a foreigner, he already has to be allowed to work (with Opt, _Green Card_, etc.) or the company has to sponsor him/her for an H (the most usual), or, J, or Green Card. But that process has costs, it is long (it can take months) and it is risky (the visa may not be granted, because it falls into the H1-B Lottery, for example). Foreign companies have some more options with the visa E or the L.
 
-Therefore, except for very exclusive or that there is a lack of such professionals, American companies, in general, avoid sponsorizing at all costs.
+Therefore, except for very exceptional individuals or because there is a lack of such professionals, American companies, in general, avoid sponsoring at all costs.
 
-In many online applications for jobs, they will ask you directly if you have permission to work or if you need sponsors.If so, do not even call you. People who come with tourism visas to try a few months have almost no option to be hired.
+In many online applications for jobs, they will ask you directly if you have permission to work or if you need sponsorship. If so, they do not even call you back. People who come with tourism visas to try for a few months have almost no option to be hired.
 
-However, although the reality is hard, we have written this book to give you the keys and guide you towards the path that will give you more options to achieve your goal of living and working in the US.In the decision tree that is recorded in the book, the keys of each visa are summarized in a simple way.
+However, although the truth is a hard pill to swallow, we have written this book to give you the keys and guide you toward the path that will give you more options to achieve your goal of living and working in the US. In the decision tree that is included in the book, the key points of each visa are summarized simply.
 
 <div class="fixed-notice">
   <div class="fixed-notice__column" markdown="1">
@@ -199,7 +199,7 @@ Join our waiting list and <ins>**Download for free**</ins> a complete scheme tha
 
 {% include paralax_row id="paralax_row2" type="right" %}
 
-### You want to know more?
+### Do you want to know more?
 
 [Visit the official blog](/wenospeakamericano/blog/)
 
