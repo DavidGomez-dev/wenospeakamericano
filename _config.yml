@@ -161,6 +161,8 @@ include:
   - _pages
 exclude:
   - _00assets
+  - test
+  - cgi-sys
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
