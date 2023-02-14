@@ -103,7 +103,7 @@ amazon_reviews:
 
 ### All information to study, work or live in the United States
 
-We No American Speak is the definitive guide you need to **study, work or live in the United States**. It is probably the most complete work that has been written about all the procedures, documents, steps and tricks to succeed in the country. It collects more than six years of research and personal experiences of David Gomez and Laura Carreño, who have successfully advised dozens of people to **achieve their dream** of emigrating to the USA.
+We No Speak Americano is the definitive guide you need to **study, work or live in the United States**. It is probably the most complete work that has been written about all the procedures, documents, steps and tricks to succeed in the country. It collects more than six years of research and personal experiences of David Gomez and Laura Carreño, who have successfully advised dozens of people to **achieve their dream** of emigrating to the USA.
 
 In a casual but objective tone, the multitude of concepts, norms and peculiarities of the American country are explained. It is difficult to find information so well structured and easy to read in other sources. Mixing **funny anecdotes** and personal reflections, it is possible to understand the curious American society, a model being praised from the outside but that is also full of shadows.
 
