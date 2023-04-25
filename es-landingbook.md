@@ -3,6 +3,7 @@ title: "Thank you for reading We No Speak Americano | Book to emigrate to United
 layout: splash
 lang: es-ES
 ref: landingbook
+permalink: /es/landingbook/
 ---
 
 <br>
