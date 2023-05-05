@@ -463,6 +463,101 @@ form {
   }
 }
 
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+  flex-direction: column;
+}
+
+.shareBtn {
+  display: block;
+  padding: 10px 20px;
+  margin-right: 0;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.shareBtn.shareOnTwitter {
+  background-color: #1da1f2;
+  color: #ffffff;
+}
+
+.shareBtn.shareOnLinkedIn {
+  background-color: #0077b5;
+  color: #ffffff;
+}
+
+.shareBtn.shareOnInstagram {
+  background-color: #e1306c;
+  color: #ffffff;
+}
+
+.shareBtn.shareOnWhat {
+  background-color: #25d366;
+  color: #ffffff;
+}
+
+#downBtn {
+  width: 100%;
+}
+
+.btn--inverse {
+  background-color: #fff;
+  color: #bfbfbf !important;
+  border: 1px solid #bfbfbf;
+}
+
+@media only screen and (min-width: 768px) {
+  .shareBtn {
+    display: inline-block;
+    width: 23%;
+  }
+  .button-container {
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+  }
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.text-container {
+  flex: 1;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.image-container {
+  flex: 1;
+}
+
+@media only screen and (max-width: 767px) {
+  .flex-container {
+    flex-direction: column;
+    padding: 0;
+    padding-top: 10px;
+  }
+
+  .text-container {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
 // -modified
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
