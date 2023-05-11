@@ -79,7 +79,7 @@ ref: landingbook
       const message = encodeURIComponent(
         "I have just read this book for studying, working or living in the US. I recommend it!! #immigration #US #H1B"
       );
-      const shareUrl = encodeURIComponent("https://www.amazon.com/dp/B0C2SFPMS4");
+      const shareUrl = encodeURIComponent("https://www.amazon.com/dp/B0C2SFPMS4?maas=maas_adg_AFB58EE4A84ACF0642385545DB24A3AD_afap_abs&ref_=aa_maas&tag=maas");
 
       // function to share a message on Twitter
       function shareOnTwitter() {
