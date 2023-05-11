@@ -25,7 +25,7 @@ ref: landingbook
       Share in Linkedin <i class="fab fa-linkedin-in"></i>
     </button>
     <button class="button btn btn--large shareBtn shareOnInstagram">
-      Share in Instagram <i class="fab fa-instagram"></i>
+      Share in Facebook <i class="fab fa-facebook"></i>
     </button>
     <button class="button btn btn--large shareBtn shareOnWhat">
       Share in WhatsApp <i class="fab fa-whatsapp"></i>
@@ -107,7 +107,7 @@ ref: landingbook
       // function to share a message on Instagram
       function shareOnInstagram() {
         //const message = encodeURIComponent("Hello Instagram!");
-        const url = `https://www.instagram.com/create/?url=${shareUrl}`;
+        const url = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
         window.open(url, "_blank");
       }
 
@@ -121,7 +121,7 @@ ref: landingbook
       // function to download a PDF
       function downloadPDF() {
         //TODO to change link
-        const url = "https://www.wenospeakamericano.com/assets/doc/esquema_visados_free_download.pdf";
+        const url = "https://www.wenospeakamericano.com/assets/doc/visa-guide-eng.pdf";
         const link = document.createElement("a");
         link.href = url;
         link.setAttribute("download", "");
