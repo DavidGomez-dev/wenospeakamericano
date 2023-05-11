@@ -13,8 +13,7 @@ header:
   overlay_image: "/assets/images/47899829_m.jpg"
   overlay_filter: "linear-gradient(to right bottom,rgba(60, 60, 110,0.8), rgba(178, 34, 52, 0.5))"
   title: "Read the book that will make your American dream come true"
-  description: "Get now  the best book - guide that has been written to study, work or live in the United States.<br>
-  (current edition only in Spanish)."
+  description: "Get now  the best book - guide that has been written to study, work or live in the United States.<br>"
 features_row:
   - icon: "fas fa-file-alt"
     title: "276"
@@ -62,8 +61,8 @@ amazon_reviews:
 
 <div class="fixed-notice fixed-notice_top">
   <div class="fixed-notice__column">
-    <h3>🎉 New 2nd edition in English<span class="d-none"> coming</span> soon</h3>
-    <p>Join the waiting list to find out when is for sale</p>
+    <h3>🎉 New 2nd edition in English</h3>
+    <p>Join the newsletter to get some tips</p>
   </div>
   <div class="fixed-notice__column">
   <!-- Begin Mailchimp Signup Form -->
