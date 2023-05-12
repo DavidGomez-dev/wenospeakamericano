@@ -423,6 +423,10 @@ form {
   margin-bottom: 2em;
 }
 
+.page__content h2 {
+  border-bottom: 0 !important;
+}
+
 @media screen and (max-device-width: 1022px) {
   .d-none {
     display: none;

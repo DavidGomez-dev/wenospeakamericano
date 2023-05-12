@@ -26,12 +26,12 @@ features_row:
     description: "units sold"
 paralax_row1:
   - image_path: /assets/images/chaplinpuntos-banner.jpg
-    title: "«In the United States you will have to baptize yourself again»"
+    title: "«In the United States you will have to rename yourself again»"
     excerpt: Learn why in this incredible guide.
 paralax_row2:
   - image_path: /assets/images/ebook_bill_banner.jpg
     title: "«Go Big or Go Home»"
-    excerpt: Buy the best guide that has been written to emigrate to the United States.
+    excerpt: Order the best guide that has been written to immigrating to the United States.
 paralax_row3:
   - image_path: /assets/images/jonnycase_banner.jpg
     title: "«Never, never, never accept the first price they offer you»"
@@ -61,44 +61,14 @@ amazon_reviews:
 
 <div class="fixed-notice fixed-notice_top">
   <div class="fixed-notice__column">
-    <h3>🎉 New 2nd edition in English</h3>
-    <p>Join the newsletter to get some tips</p>
-  </div>
-  <div class="fixed-notice__column">
-  <!-- Begin Mailchimp Signup Form -->
-    <div id="mc_embed_signup">
-        <form action="{{ site.subscriptions.waiting_ENG }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
-            <div hidden="true"><input type="hidden" name="tags" value="6818053"></div>
-            <div id="mc_embed_signup_scroll">
-                <div class="mc-field-group input-group">
-	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
-	                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-                     <input type="submit" value="Join →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
-                </div>
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>I agree to receive advertising emails<span class="d-none"> being able to cancel the subscription at any time</span><a target="_blank" class="color-white" href="https://www.sendinblue.com/legal/termsofuse/"> terms of use.</a></span> </label>
-                    </fieldset>
-                </div>
-            </div>
-            <div id="mce-responses" class="clear foot">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                <input type="text" name="b_93c113af725dcda60bf8d1639_662ffeb9d8" tabindex="-1" value="">
-            </div>
-            </div>
-        </form>
-    </div>
-    <!--End mc_embed_signup-->
+    <h3>🎉 New 2nd edition in English <a class="" href="https://www.amazon.com/dp/B0C2SFPMS4?maas=maas_adg_065E3D42E8D259C1450F3C1ECA481E37_afap_abs&ref_=aa_maas&tag=maas">Order Now →</a></h3>
+
   </div>
 </div>
 
 [Cambiar a español 🇪🇸](/es/){: .align-right }
 
-# Book "We No Speak Americano": The best guide to emigrate to the United States
+# Book "We No Speak Americano": The best immigration guide to living in the United States
 
 ### All information to study, work or live in the United States
 
@@ -142,27 +112,27 @@ Now summarize all that research and experience work so that you have the necessa
 </div>
 </div>
 
-### Why is it difficult to emigrate to the United States?
+### Why is it difficult to live in the United States?
 
 text extracted from the book **We No Speak Americano**
 
-There are different visas that allow us to go to the United States depending on the activity to be done. Being short periods for tourism or businesses is simple, staying longer to study is not a problem, but, working, is usually much more complicated. There is a well-known saying that permanent residence is only achieved by one of the three "L" (_Labor, Love or Lottery_).
+There are different visas that allow you to go to the United States depending on the activity you are going to do. Staying for short periods for tourism or business is simple, remaining for longer periods to study is not a problem either, but working usually tends to be more complicated. There is a saying for **permanent residency** that it is only achieved through one of the three "Ls" (_Labor, Love or Lottery_).
 
-American companies can only hire people who are authorized to work, if not, they would be hiring illegally and risking important fines. It is even illegal to hire a worker who the company has not previously verified that is indeed authorized to work (with the form I-9 or the _E-Verify_ program). It is also illegal to subcontract jobs to other companies that have illegal workers. Since laws in the United States are respected and enforced, employers have great aversion and fear of hiring anyone who does not have permission, the more the bigger the company is and the more professional the position is. In addition, in many professions, American licenses or certifications are necessary to be able to exercise, as doctors, lawyers or engineers.
+American companies can only hire individuals who are authorized to work, otherwise they would be hiring undocumented workers and risking significant fines. It is also illegal to hire a worker without verifying their **authorization to work** through the Form I-9 or the _e-verify_ program. It's also against the law to subcontract jobs to other companies that have undocumented workers. As laws in the United States are respected and enforced, employers have a strong aversion and fear of hiring anyone without permission, especially in larger companies and more professional positions. Additionally, many professions require or recommend American licenses or certifications in order to practice, such as doctors, lawyers, or engineers.
 
-For an American company to hire a foreigner, he already has to be allowed to work (with Opt, _Green Card_, etc.) or the company has to sponsor him/her for an H (the most usual), or, J, or Green Card. But that process has costs, it is long (it can take months) and it is risky (the visa may not be granted, because it falls into the H1-B Lottery, for example). Foreign companies have some more options with the visa E or the L.
+In order for an American company to hire a foreigner, either they must already have permission (such as with OPT, _Green Card_, etc.) or they **must sponsor them** for an H visa (the most common), O visa, J visa, or Green Card. But this process is costly, lengthy (it can take months), and risky (the visa may not be granted, for example, because it falls within the H lottery). Foreign companies operating in the USA have some more options with the E or L visas.
 
-Therefore, except for very exceptional individuals or because there is a lack of such professionals, American companies, in general, avoid sponsoring at all costs.
+Therefore, except for very exclusive positions or in cases where there is a shortage of such professionals, American companies, in general, avoid sponsoring at all costs.
 
-In many online applications for jobs, they will ask you directly if you have permission to work or if you need sponsorship. If so, they do not even call you back. People who come with tourism visas to try for a few months have almost no option to be hired.
+In many online job applications, they will directly ask if you have permission to work or if you need sponsorship. If so, it's likely that they won't even call you back. People who come with tourist visas to try for a few months really have almost no chance of being hired.
 
-However, although the truth is a hard pill to swallow, we have written this book to give you the keys and guide you toward the path that will give you more options to achieve your goal of living and working in the US. In the decision tree that is included in the book, the key points of each visa are summarized simply.
+However, even though **the reality is harsh**, we have written this book to give you the keys and guide you towards the path that will give you the most options to **achieve your goal of living and working in the USA**.
 
 <div class="fixed-notice">
   <div class="fixed-notice__column" markdown="1">
 ### 🆓 Free download 🎊
 
-Join our waiting list and <ins>**Download for free**</ins> a complete scheme that will guide you to select the visa that suits you.
+Join our subscription list and <ins>**Download for free**</ins> a complete scheme that will guide you to select the visa that suits you.
 
   </div>
   <div class="fixed-notice__column">
