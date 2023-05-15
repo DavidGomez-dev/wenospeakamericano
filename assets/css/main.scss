@@ -16,6 +16,10 @@ $sans-serif: "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, san
 $cooper: "cooper-black-std", serif !default;
 
 // modified
+body {
+  overflow-x: hidden;
+}
+
 .author-card {
   background-color: #e6e6e6;
   width: 100vw;
@@ -33,13 +37,20 @@ $cooper: "cooper-black-std", serif !default;
 .author-row {
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  // align-items: flex-end;
   column-gap: 1em;
-  padding: 0 5vw;
+  padding: 0 1em 1em;
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 .author_photo {
   flex-grow: 1;
+}
+
+.author_photo_all img {
+  transform: rotate(3deg);
+  margin: 10px 0;
 }
 
 .author_photo p {
@@ -463,7 +474,7 @@ form {
     padding-top: 5px;
   }
   .page__hero--overlay {
-    padding-top: 8rem !important;
+    padding-top: 2rem !important;
   }
 }
 
@@ -519,7 +530,19 @@ form {
   border: 1px solid #bfbfbf;
 }
 
+.two-column::first-letter {
+  -webkit-initial-letter: 2;
+  initial-letter: 2;
+}
+
 @media only screen and (min-width: 768px) {
+  .two-column {
+    column-count: 2;
+    column-gap: 5vw;
+    text-align: justify;
+    margin-bottom: 3vw;
+  }
+
   .shareBtn {
     display: inline-block;
     width: 23%;
@@ -560,6 +583,10 @@ form {
     margin-right: 0;
     margin-bottom: 20px;
   }
+}
+
+.text-e6 {
+  color: #e6e6e6 !important;
 }
 
 // -modified

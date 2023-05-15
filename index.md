@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "We No Speak Americano | Book to emigrate to the United States"
+title: "Best guide for immigration to the United States"
 layout: splash-hero
 lang: en-US
 menu: false
@@ -12,8 +12,8 @@ date:
 header:
   overlay_image: "/assets/images/47899829_m.jpg"
   overlay_filter: "linear-gradient(to right bottom,rgba(60, 60, 110,0.8), rgba(178, 34, 52, 0.5))"
-  title: "Read the book that will make your American dream come true"
-  description: "Get now  the best book - guide that has been written to study, work or live in the United States.<br>"
+  title: "An accessible guide for immigration to the US"
+  description: "Order now the most practical and clear guide to studying, working or living in the United States.<br>"
 features_row:
   - icon: "fas fa-file-alt"
     title: "276"
@@ -61,61 +61,64 @@ amazon_reviews:
 
 <div class="fixed-notice fixed-notice_top">
   <div class="fixed-notice__column">
-    <h3>🎉 New 2nd edition in English <a class="" href="https://www.amazon.com/dp/B0C2SFPMS4?maas=maas_adg_065E3D42E8D259C1450F3C1ECA481E37_afap_abs&ref_=aa_maas&tag=maas">Order Now →</a></h3>
+    <h3>🎉 New <span class="d-none">2nd </span>edition in English <a class="text-e6" href="https://www.amazon.com/dp/B0C2SFPMS4?maas=maas_adg_065E3D42E8D259C1450F3C1ECA481E37_afap_abs&ref_=aa_maas&tag=maas">Order Now →</a></h3>
 
   </div>
 </div>
 
 [Cambiar a español 🇪🇸](/es/){: .align-right }
 
-# Book "We No Speak Americano": The best immigration guide to living in the United States
+# We No Speak Americano: The best guide for immigration to the United States
 
-### All information to study, work or live in the United States
+### Comprehensive Guide to Immigration, Living, Studying, and Working in the United States
 
-We No Speak Americano is the definitive guide you need to **study, work or live in the United States**. It is probably the most complete work that has been written about all the procedures, documents, steps and tricks to succeed in the country. It collects more than six years of research and personal experiences of David Gomez and Laura Carreño, who have successfully advised dozens of people to **achieve their dream** of emigrating to the USA.
+"We No Speak Americano" is your ultimate guide to **immigration**, and achieving success in **studying, working, and living in the United States**. This comprehensive guide, possibly the most detailed work on the subject, demystifies the processes, documentation, steps, and strategies required to make a successful transition to the US. It encapsulates over six years of firsthand experiences of the authors David Gomez and Laura Carreño, who have made their **American dream** true.
 
-In a casual but objective tone, the multitude of concepts, norms and peculiarities of the American country are explained. It is difficult to find information so well structured and easy to read in other sources. Mixing **funny anecdotes** and personal reflections, it is possible to understand the curious American society, a model being praised from the outside but that is also full of shadows.
+[![Order We No Speak Americano book in Amazon](/assets/images/we-no-speak-americano-book.jpg)](https://www.amazon.com/dp/B0C2SFPMS4?maas=maas_adg_065E3D42E8D259C1450F3C1ECA481E37_afap_abs&ref_=aa_maas&tag=maas&asin=B0C2SFPMS4&revisionId=&format=4&depth=1){: .align-left}
 
-![Buy We No Speak Americano book in Amazon](/assets/images/we-no-speak-americano-book.jpg){: .align-left}
+In a casual yet precise tone, this guide breaks down the multitude of concepts, norms, and nuances that define American society. It offers well-structured, easily digestible information that is rarely found in other sources. Blending **entertaining anecdotes** with insightful reflections, readers get a response to questions such as:
 
-Concepts such as visa F, OPT, _Social Security_, _Credit History_, _Sexual Harassment_, taxes, _the Employment Permit_ or the importance of attorneys, are treated with precision and simplicity.
+- **How to get a VISA for working in the US?**
+- **What are the best places to live in the United States?**
+- **When to apply for studying a Master in the US?**
 
-Its more than 250 pages are structured into 22 chapters and 5 sections: visas and legal documents to be in the country, procedures to study in the US and work later, finding employment and succeed in it, typical issues to live such as finding a house, car, or dealing with banks or taxes and, finally, coping with the return to the country of origin.
+Key topics such as F visa, OPT, _Social Security_, _Credit History_, _Sexual Harassment_, taxes, _Employment Permits_, and the role of attorneys are presented with clarity and simplicity.
 
-The text is prepared to support legislative changes of each political cycle, deepening into the facts that explain the rise of nationalism and discovering the closest future.
+Spanning over 250 pages, the guide is organized into 22 chapters and 5 sections that cover: visa and legal documents for **immigration**, procedures for **studying in the US** and subsequent **working**, strategies for job success, advice on **living in the US** including finding housing and dealing with banks or taxes, and guidance on transitioning back to one's home country.
 
-A book that will accompany you from **before passing the border until you are one more American**.
+This text is designed to remain relevant amidst legislative changes of each political cycle, delving into the factors that have fueled the rise of nationalism and providing insights into the imminent future.
+
+### A book that will accompany you from before passing the border until you are one more American!
+
 {% include amazon_row %}
 
 {% include paralax_row id="paralax_row1" type="left" %}
 
 <div class="author-card" markdown="1">
 
-### About the authors
+### Hi, there! 👋
 
 <div class="author-row" markdown="1">
 
-<div class="author_photo" markdown="1">
-![Laura Carreño](assets/images/Laura-Carreno.jpg){: .align-left}
-</div>
 <div  class="author_text" markdown="1">
-David Gómez, Professional Engineer, and Laura Carreño, MA in Human Resources, know firsthand what it means to **emigrate to the United States**. During their stay of more than 6 years in California they have gone through almost all stages of the emigrant: tourists, study at a university, find work there (several times), settle, work as expatriates and finally return to their country.
+We are David Gómez and Laura Carreño, and we have firsthand experience in **immigrating to the United States**. During our six-plus years in California, we've navigated almost all stages of the immigration journey: from being tourists to studying at a university, finding work (multiple times), settling down, starting a family, and ultimately returning to our home country.
 
-Thanks to their work in the Trade Commission of Spain and several multinational companies, they have helped numerous people to solve their questions about how to **study, work or live in the United States**.
+We've faced many of the questions and uncertainties you may currently have about **how to study, work, or live in the United States**, and there were many times when we didn't know who to ask for assistance.
 
-Now summarize all that research and experience work so that you have the necessary information **to succeed in the American country**.
+To help you navigate these challenges, we've written this book, sharing our experiences of living in the US. Our hope is that it will guide you to **succeed in your American dream**.
 
 </div>
-<div class="author_photo" markdown="1">
-![David Gomez](assets/images/David-Gomez.jpg){: .align-right} 
+<div class="author_photo author_photo_all" markdown="1">
+![Authors of We No Speak Americano](assets/images/davidylaura.jpg){: .align-right} 
 </div>
 </div>
 </div>
 
-### Why is it difficult to live in the United States?
+### Why it is difficult to immigrate to the United States?
 
-text extracted from the book **We No Speak Americano**
+_text extracted from the book **We No Speak Americano**_
 
+<div class="two-column" markdown="1">
 There are different visas that allow you to go to the United States depending on the activity you are going to do. Staying for short periods for tourism or business is simple, remaining for longer periods to study is not a problem either, but working usually tends to be more complicated. There is a saying for **permanent residency** that it is only achieved through one of the three "Ls" (_Labor, Love or Lottery_).
 
 American companies can only hire individuals who are authorized to work, otherwise they would be hiring undocumented workers and risking significant fines. It is also illegal to hire a worker without verifying their **authorization to work** through the Form I-9 or the _e-verify_ program. It's also against the law to subcontract jobs to other companies that have undocumented workers. As laws in the United States are respected and enforced, employers have a strong aversion and fear of hiring anyone without permission, especially in larger companies and more professional positions. Additionally, many professions require or recommend American licenses or certifications in order to practice, such as doctors, lawyers, or engineers.
@@ -128,11 +131,13 @@ In many online job applications, they will directly ask if you have permission t
 
 However, even though **the reality is harsh**, we have written this book to give you the keys and guide you towards the path that will give you the most options to **achieve your goal of living and working in the USA**.
 
+</div>
+
 <div class="fixed-notice">
   <div class="fixed-notice__column" markdown="1">
 ### 🆓 Free download 🎊
 
-Join our subscription list and <ins>**Download for free**</ins> a complete scheme that will guide you to select the visa that suits you.
+Join our subscription list and <ins>**Download for free**</ins> a complete scheme that will guide you in selecting the visa best suited for you.
 
   </div>
   <div class="fixed-notice__column">
