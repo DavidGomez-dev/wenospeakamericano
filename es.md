@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "We No Speak Americano | Book to emigrate to United States"
+title: "La mejor guia para emigrar a Estados Unidos"
 layout: splash-hero
 lang: es-ES
 menu: false
@@ -61,38 +61,7 @@ amazon_reviews:
 
 <div class="fixed-notice fixed-notice_top">
   <div class="fixed-notice__column">
-    <h3>🎉 Nueva 2ª edición <span class="d-none">disponible </span>muy pronto</h3>
-    <p>Únete a la lista de espera para enterarte cuando esté a la venta</p>
-  </div>
-  <div class="fixed-notice__column">
-  <!-- Begin Mailchimp Signup Form -->
-    <div id="mc_embed_signup">
-        <form action="{{ site.subscriptions.waiting_ESP }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
-            <div hidden="true"><input type="hidden" name="tags" value="6818053"></div>
-            <div id="mc_embed_signup_scroll">
-                <div class="mc-field-group input-group">
-	                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required placeholder="email@domain.com">
-	                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-                     <input type="submit" value="Unirse →" name="subscribe" id="mc-embedded-subscribe" class="button btn">
-                </div>
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>Estoy de acuerdo en recibir emails publicitarios<span class="d-none"> y poder anular la subscripción en cualquier momento</span>.</span> </label>
-                    </fieldset>
-                </div>
-            </div>
-            <div id="mce-responses" class="clear foot">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                <input type="text" name="b_93c113af725dcda60bf8d1639_662ffeb9d8" tabindex="-1" value="">
-            </div>
-            </div>
-        </form>
-    </div>
-    <!--End mc_embed_signup-->
+    <h3>🎉 Nueva 2ª edición <span class="d-none">ya disponible </span><a class="text-e6" href="https://www.amazon.com/dp/B0C2SFPMS4?maas=maas_adg_065E3D42E8D259C1450F3C1ECA481E37_afap_abs&ref_=aa_maas&tag=maas">Pedir →</a></h3>
   </div>
 </div>
 
@@ -114,7 +83,7 @@ Sus más de 250 páginas están estructuradas en 22 capítulos y 5 secciones: Vi
 
 El texto está preparado para soportar los previsibles cambios legislativos de los ciclos políticos, profundizando en los hechos que explican el ascenso del nacionalismo y descubriendo el futuro más cercano.
 
-Un libro que te acompañará **desde antes de pasar la frontera hasta que seas un americano más**.
+### Un libro que te acompañará desde antes de pasar la frontera hasta que seas un americano más.
 
 {% include amazon_row %}
 
@@ -122,42 +91,42 @@ Un libro que te acompañará **desde antes de pasar la frontera hasta que seas u
 
 <div class="author-card" markdown="1">
 
-### Sobre los Autores
+### Hola! 👋
 
 <div class="author-row" markdown="1">
 
-<div class="author_photo" markdown="1">
-![Laura Carreño](assets/images/Laura-Carreno.jpg){: .align-left}
-</div>
 <div  class="author_text" markdown="1">
-David Gómez, Professional Engineer, y Laura Carreño, MA in Human Resources, conocen de primera mano lo que significa **emigrar a Estados Unidos**. Durante su estancia de más de 6 años en California han pasado por casi todas las etapas del emigrante: turistas, estudiar en una universidad, encontrar trabajo allí (varias veces), asentarse, trabajar como expatriados y finalmente regresar a su país.
+Somos David Gómez y Laura Carreño, y hemos vivido en primera persona lo que es **emigrar a los Estados Unidos**. Durante  más de seis años en California, hemos navegado por casi todas las etapas del viaje de inmigración: desde ser turistas hasta estudiar en una universidad, encontrar trabajo (varias veces), establecernos, formar una familia y finalmente regresar a nuestro país de vuelta.
 
-Gracias a sus trabajos en la Trade Commission of Spain y varias empresas multinacionales, han ayudado a numerosas personas a resolver sus preguntas sobre como estudiar, trabajar o vivir en Estados Unidos.
+Nos hemos enfrentado a muchas de las preguntas y dudas que puede que esten teniendo ahora sobre **cómo estudiar, trabajar o vivir en los Estados Unidos**, y hubo muchas veces en las que no sabíamos a quién preguntar.
 
-Ahora resumen todo ese trabajo de investigación y vivencias propias para que tengas la información necesaria para **triunfar en el país americano**.
+Para ayudarte a navegar estos desafíos, hemos escrito este libro, compartiendo nuestras experiencias de vivir en los EE.UU. Nuestra esperanza es que te guíe a ti también para **triunfar en tu sueño americano**.
 
 </div>
-<div class="author_photo" markdown="1">
-![David Gomez](assets/images/David-Gomez.jpg){: .align-right} 
+<div class="author_photo author_photo_all" markdown="1">
+![Authors of We No Speak Americano](../assets/images/davidylaura.jpg){: .align-right} 
 </div>
 </div>
 </div>
 
 ### ¿Por qué es difícil emigrar a Estados Unidos?
 
-texto extraído de We No Speak Americano
+_texto extraído de **We No Speak Americano**_
 
-Existen diferentes Visas que permiten ir a Estados Unidos dependiendo de la actividad que se vaya a hacer. Estar períodos cortos por turismo o negocios es sencillo, permanecer más tiempo para estudiar tampoco es un problema, pero, trabajar, suele ser bastante más complicado. Hay un dicho para la residencia permanente, que esta se consigue sólo por alguna de las tres “L” (_Labor, Love o Lottery_).
+<div class="two-column" markdown="1">
+Existen **diferentes Visas** que permiten ir a Estados Unidos dependiendo de la actividad que se vaya a hacer. Estar períodos cortos por turismo o negocios es sencillo, permanecer más tiempo para estudiar tampoco es un problema, pero, trabajar, suele ser bastante más complicado. Hay un dicho para la residencia permanente, que esta se consigue sólo por alguna de las tres “L” (_Labor, Love o Lottery_).
 
-Las empresas americanas sólo pueden contratar a personas que estén autorizadas a trabajar, si no, estarían contratando ilegales y arriesgándose a importantes multas. Incluso es ilegal contratar a un trabajador y que la empresa no verifique que tiene autorización para trabajar (con el _Form I-9_ o el programa _e-verify_). También es ilegal que subcontrate trabajos a otras empresas que tienen trabajadores ilegales. Y como las leyes en Estados Unidos se respetan y se hacen cumplir, los empleadores tienen gran aversión y miedo a contratar cualquier persona que no tenga permiso, más cuanto mayor es la empresa y más profesional es el puesto. Además, en muchas profesiones, son necesarias o recomendadas licencias o certificaciones americanas para poder ejercer, como médicos, abogados o ingenieros.
+Las empresas americanas sólo pueden contratar a personas que estén **autorizadas a trabajar**, si no, estarían contratando ilegales y arriesgándose a importantes multas. Incluso es ilegal contratar a un trabajador y que la empresa no verifique que tiene autorización para trabajar (con el _Form I-9_ o el programa _e-verify_). También es ilegal que subcontrate trabajos a otras empresas que tienen trabajadores ilegales. Y como las leyes en Estados Unidos se respetan y se hacen cumplir, los empleadores tienen gran aversión y miedo a contratar cualquier persona que no tenga permiso, más cuanto mayor es la empresa y más profesional es el puesto. Además, en muchas profesiones, son necesarias o recomendadas licencias o certificaciones americanas para poder ejercer, como médicos, abogados o ingenieros.
 
-Para que una empresa americana contrate a un extranjero, o bien este tiene ya permiso (con OPT, _Green Card_, etc.) o le tiene que sponsorizar para una Visa H (la más usual), O, J, o _Green Card_. Pero ese proceso tiene costes, es largo (puede llevar meses) y es arriesgado (la Visa puede no concederse, porque cae en la lotería de la H, por ejemplo). Empresas extranjeras tienen alguna opción más con la Visa E o la L.
+Para que una empresa americana contrate a un extranjero, o bien este tiene ya permiso (con OPT, _Green Card_, etc.) o le tiene que **sponsorizar para una Visa H** (la más usual), O, J, o _Green Card_. Pero ese proceso tiene costes, es largo (puede llevar meses) y es arriesgado (la Visa puede no concederse, porque cae en la lotería de la H, por ejemplo). Empresas extranjeras tienen alguna opción más con la Visa E o la L.
 
 Por ello, salvo puestos muy exclusivos o que exista falta de ese tipo de profesionales, las empresas americanas, en general, evitan a toda costa sponsorizar.
 
-En muchas aplicaciones online para trabajos, ya te preguntarán directamente si tienes permiso para trabajar o si necesitas sponsor. Si es así, lo más probable es que ni te llamen. Personas que vienen con visados de turismo para probar unos meses no tienen realmente casi ninguna opción de ser contratados.
+En muchas aplicaciones online para trabajos, ya te preguntarán directamente si tienes permiso para trabajar o si **necesitas sponsor**. Si es así, lo más probable es que ni te llamen. Personas que vienen con visados de turismo para probar unos meses no tienen realmente casi ninguna opción de ser contratados.
 
-No obstante, aunque la realidad es dura, hemos escrito este libro para darte las claves y orientarte hacia el camino que más opciones te dará para conseguir tu objetivo de vivir y trabajar en EEUU. En el árbol de decisión que se incluye en el libro se resume de forma sencilla las claves de cada Visa.
+No obstante, aunque la realidad es dura, hemos escrito este libro para darte las claves y orientarte hacia el camino que más opciones te dará para conseguir tu objetivo de **vivir y trabajar en EEUU**. En el árbol de decisión que se incluye en el libro se resume de forma sencilla las claves de cada Visa.
+
+</div>
 
 <div class="fixed-notice">
   <div class="fixed-notice__column" markdown="1">
@@ -218,7 +187,7 @@ Suscríbete y <ins>**descarga gratis**</ins> este completo esquema que te guiar�
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function () {
         var userLang = navigator.language || navigator.userLanguage;
-        console.log("userLang: ",userLang)
+        //console.log("userLang: ",userLang)
         if ((userLang.slice(0,2) == "es")) {
             window.location.href = "/es/"
         }
