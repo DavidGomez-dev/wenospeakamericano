@@ -14,6 +14,7 @@ header:
   overlay_filter: "linear-gradient(to right bottom,rgba(60, 60, 110,0.8), rgba(178, 34, 52, 0.5))"
   title: "An accessible guide for immigration to the US"
   description: "Order now the most practical and clear guide to studying, working or living in the United States.<br>"
+  og_image: "/assets/images/immigrationguide.jpg"
 features_row:
   - icon: "fas fa-file-alt"
     title: "276"
@@ -153,7 +154,7 @@ Join our subscription list and <ins>**Download for free**</ins> a complete schem
             <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                 <div class="content__gdpr">
                     <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>I agree to receive advertising emails and be able to cancel the subscription at any time, <a target="_blank" class="color-white" href="https://www.sendinblue.com/legal/termsofuse/">terms of use</a>.</span> </label>
+		            <label class="checkbox subfield" for="gdpr_66753"><input type="checkbox" id="gdpr_66753" name="gdpr[66753]" value="Y" class="av-checkbox" required><span>I agree to receive advertising emails and be able to cancel the subscription at any time, <a target="_blank" class="color-white" href="https://www.brevo.com/legal/termsofuse/">terms of use</a>.</span> </label>
                     </fieldset>
                 </div>
             </div>
@@ -175,7 +176,7 @@ Join our subscription list and <ins>**Download for free**</ins> a complete schem
 
 ### Do you want to know more?
 
-[Visit the official blog](/wenospeakamericano/blog/)
+[Visit the official blog](/blog/)
 
 {% assign entries_layout = 'grid' %}
 

@@ -23,9 +23,9 @@ Como idea general, **cuanto más tiempo y más derechos da un visado, más difí
 
 Existen tres grandes tipos de visados:
 
-- [Turismo](test). Ciertos países están exentos de visado para estancias de menos de 90 días a través del programa ESTA. Si no se cumplen los requisitos, es necesario obtener el visado B.
-- Estudios. Son los visados F, M y J. Permiten residir durante los estudios y bajo ciertas condiciones, también permiten trabajar durante cierto tiempo.
-- Trabajo. Hay diversos tipos dependiendo de la situación personal y de la empresa, pero en general, son difíciles de conseguir si no se planifica adecuadamente. En esta categoría está el visado H, O, L o E.
+- Turismo. Ciertos países están exentos de visado para estancias de menos de 90 días a través del programa ESTA. Si no se cumplen los requisitos, es necesario obtener el visado B.
+- [Estudios](/estudiar-en-usa/estudiar-universidad-americana/). Son los visados F, M y J. Permiten residir durante los estudios y bajo ciertas condiciones, también permiten trabajar durante cierto tiempo.
+- [Trabajo](/work-in-usa/autorizado-legalmente-trabajar-estados-unidos/). Hay diversos tipos dependiendo de la situación personal y de la empresa, pero en general, son difíciles de conseguir si no se planifica adecuadamente. En esta categoría está el visado H, O, L o E.
 
 Todos ellas se consideran _non-immigrant visas_, ya que están pensadas para personas que, en principio, van a estar un tiempo en el país (aunque sea años) y no tienen la intención de emigrar de forma permanente. El nombre no es muy afortunado, ya que muchos se consideran, en realidad, emigrantes. La única _immigrant visa_ es la _Green Card_.
 

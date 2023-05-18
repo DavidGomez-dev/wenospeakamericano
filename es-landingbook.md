@@ -41,7 +41,7 @@ permalink: /es/landingbook/
 
 ### Do you want to know more?
 
-[Visit the official blog](/wenospeakamericano/blog/)
+[Visit the official blog](/blog/)
 
 {% assign entries_layout = 'grid' %}
 

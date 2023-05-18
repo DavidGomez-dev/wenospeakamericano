@@ -14,7 +14,7 @@ header:
   teaser: /assets/images/casey-olsen-NlFyPKxXORo-unsplash.jpg
 ---
 
-American universities do not usually admit to all students who request Plaza, but select those candidates who best fit their standards or requirements.The most complicated case is that of Harvard University, which, in 2011, only 7% of the 35,000 students who requested a place, managed to be accepted ([www.harvard.edu](www.harvard.edu)).
+American universities do not usually admit to all students who request Plaza, but select those candidates who best fit their standards or requirements.The most complicated case is that of Harvard University, which, in 2011, only 7% of the 35,000 students who requested a place, managed to be accepted.
 
 For this reason, it is not advisable to request admission in just one or two universities. Choosing at least between five and ten American universities is the best strategy to ensure place in some American university.
 

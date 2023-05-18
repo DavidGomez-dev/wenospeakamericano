@@ -438,6 +438,12 @@ form {
   border-bottom: 0 !important;
 }
 
+.hero-landing__feature_text > p:first-of-type,
+.archive__item-body > h3 {
+  font-size: 1.125em;
+  font-weight: bold;
+}
+
 @media screen and (max-device-width: 1022px) {
   .d-none {
     display: none;

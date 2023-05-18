@@ -170,7 +170,7 @@ Suscríbete y <ins>**descarga gratis**</ins> este completo esquema que te guiar�
 
 ### ¿Quieres saber más?
 
-[Visita el Blog oficial](/wenospeakamericano/blog/)
+[Visita el Blog oficial](/blog/)
 
 {% assign entries_layout = 'grid' %}
 

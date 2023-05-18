@@ -47,7 +47,7 @@ image_description = image_description | markdownify | strip_html | strip_newline
       <i class="{{ f.icon | default: 'fas fa-icons' }}"></i>
     </div>
     <div class="hero-landing__feature_text">
-      <h2>{{ f.title | default: 'title' }}</h2>
+      <p>{{ f.title | default: 'title' }}</p>
       <p>{{ f.description | default: 'description' }}</p>
     </div>
   </div>

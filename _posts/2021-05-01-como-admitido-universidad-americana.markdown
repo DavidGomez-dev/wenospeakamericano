@@ -14,7 +14,7 @@ header:
   teaser: /assets/images/casey-olsen-NlFyPKxXORo-unsplash.jpg
 ---
 
-Las universidades americanas no suelen admitir a todos los estudiantes que solicitan plaza, sino que seleccionan a aquellos candidatos que más se ajustan a sus estándares o requisitos. El caso más complicado es el de la universidad de Harvard, que, en el año 2011, únicamente el 7% de los 35.000 estudiantes que solicitaron plaza, logró ser aceptado (www.harvard.edu).
+Las universidades americanas no suelen admitir a todos los estudiantes que solicitan plaza, sino que seleccionan a aquellos candidatos que más se ajustan a sus estándares o requisitos. El caso más complicado es el de la universidad de Harvard, que, en el año 2011, únicamente el 7% de los 35.000 estudiantes que solicitaron plaza, logró ser aceptado.
 
 Por esta razón, no es recomendable solicitar admisión en tan sólo una o dos universidades. Elegir al menos entre cinco y diez universidades americanas es la mejor estrategia para asegurarse plaza en alguna universidad americana.
 
@@ -24,15 +24,15 @@ Los documentos a rellenar son bastantes ya que las universidades americanas así
 
 Los documentos requeridos, en general, por la mayoría de las universidades, y se deben enviar como mes límite antes de diciembre generalmente, son:
 
-* Statement of purpose
-* Tasas de solicitud de admisión no reembolsables
-* Resumé
-* GRE y/o GMAT para estudiantes de grado y SAT o ACT para estudiantes de pregrado
-* TOEFL
-* Traducción de notas académicas por organizaciones internacionales
-* Certificaciones académicas oficiales (no copias)
-* Cartas de recomendación
-* Certificados de responsabilidad financiera
+- Statement of purpose
+- Tasas de solicitud de admisión no reembolsables
+- Resumé
+- GRE y/o GMAT para estudiantes de grado y SAT o ACT para estudiantes de pregrado
+- TOEFL
+- Traducción de notas académicas por organizaciones internacionales
+- Certificaciones académicas oficiales (no copias)
+- Cartas de recomendación
+- Certificados de responsabilidad financiera
 
 Uno de los documentos críticos en los que las universidades basan su decisión para aceptar o no a posibles estudiantes, es la llamada “statement of purpose ” o carta de propósito. En esta carta, el solicitante explica las razones que le llevan a elegir el programa para el cual solicita plaza y por qué puede estar más cualificado que otros solicitantes que compiten por la plaza.
 

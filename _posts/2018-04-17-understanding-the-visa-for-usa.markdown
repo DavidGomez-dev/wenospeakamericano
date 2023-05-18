@@ -25,9 +25,9 @@ There are three large types of visas:
 
 - Tourism. Certain countries are exempt from visa for stays of less than 90 days through the ESA program. If the requirements are not met, it is necessary to obtain visa B.
 
-- Studies. They are visas F, M and J. Allow to reside during studies and under certain conditions, they also allow working for some time.
+- [Studies](/study-in-usa/study-american-university/). They are visas F, M and J. Allow to reside during studies and under certain conditions, they also allow working for some time.
 
-- Job. There are various types depending on the personal and company situation, but in general, they are difficult to achieve if it is not properly planned. In this category is visa H, O, L or E.
+- [Work](/work-in-usa/guidelines-working-US/). There are various types depending on the personal and company situation, but in general, they are difficult to achieve if it is not properly planned. In this category is visa H, O, L or E.
 
 All of them are considered _non-immigrant visas_, since they are designed for people who, in principle, will be a time in the country (even years) and do not intend to emigrate permanently. The name is not very lucky, since many are actually considered emigrants. bThe only _immigrant visa_ is the _green card_.
 
