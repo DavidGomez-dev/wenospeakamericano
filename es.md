@@ -65,7 +65,7 @@ amazon_reviews:
   </div>
 </div>
 
-[Change to english 🇺🇸](/){: .align-right }
+[Change to english 🇺🇸](/?forced=true){: .align-right }
 
 # Libro "We no Speak Americano": la mejor guía para emigrar a Estados Unidos
 
@@ -187,9 +187,9 @@ Suscríbete y <ins>**descarga gratis**</ins> este completo esquema que te guiar�
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function () {
         var userLang = navigator.language || navigator.userLanguage;
-        //console.log("userLang: ",userLang)
-        if ((userLang.slice(0,2) == "es")) {
-            window.location.href = "/es/"
+        console.log("userLang: ",userLang)
+        if ((userLang.slice(0,2) != "es")&&(!window.location.href.includes("forced"))) {
+            window.location.href = "/"
         }
     }, false);
 </script>

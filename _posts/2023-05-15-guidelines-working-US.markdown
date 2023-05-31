@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Legally Authorized to Work in the United States"
+title: "Guidelines for Working in the US If You're From Another Country"
 lang: en-US
 ref: guidelines
 date: 2023-05-15 14:46:57 +0100

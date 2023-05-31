@@ -67,7 +67,7 @@ amazon_reviews:
   </div>
 </div>
 
-[Cambiar a español 🇪🇸](/es/){: .align-right }
+[Cambiar a español 🇪🇸](/es/?forced=true){: .align-right }
 
 # We No Speak Americano: The best guide for immigration to the United States
 
@@ -193,8 +193,8 @@ Join our subscription list and <ins>**Download for free**</ins> a complete schem
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function () {
         var userLang = navigator.language || navigator.userLanguage;
-        //console.log("userLang: ",userLang)
-        if ((userLang.slice(0,2) == "es")) {
+        console.log("userLang: ",userLang)
+        if ((userLang.slice(0,2) == "es")&&(!window.location.href.includes("forced"))) {
             window.location.href = "/es/"
         }
     }, false);
