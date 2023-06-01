@@ -193,7 +193,7 @@ Join our subscription list and <ins>**Download for free**</ins> a complete schem
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function () {
         var userLang = navigator.language || navigator.userLanguage;
-        console.log("userLang: ",userLang)
+        //console.log("userLang: ",userLang)
         if ((userLang.slice(0,2) == "es")&&(!window.location.href.includes("forced"))) {
             window.location.href = "/es/"
         }
