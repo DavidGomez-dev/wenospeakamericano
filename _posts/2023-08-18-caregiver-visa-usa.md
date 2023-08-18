@@ -1,5 +1,4 @@
 ---
-
 layout: single
 title: "The Ultimate Guide to Caregiver Visa in the USA"
 lang: en-US
@@ -18,7 +17,6 @@ tags:
   overlay_filter: linear-gradient(to right bottom,rgba(60, 60, 110,0.8), rgba(178, 34, 52, 0.5))
   teaser: https://images.unsplash.com/photo-1626906722170-13ec7bb0b7f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw5fHxjYXJlZ2l2ZXIlMjB2aXNhJTIwdXNhJTJDJTIwY2FyZWdpdmVyJTJDJTIwdmlzYXxlbnwwfDB8fHwxNjkyMzc2NzYxfDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
-
 ---
 
 # The Ultimate Guide to Caregiver Visa in the USA
