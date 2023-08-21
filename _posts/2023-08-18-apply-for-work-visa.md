@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1499914485622-a88fac536970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw5fHxhcHBseSUyMGZvciUyMHdvcmslMjB2aXNhJTJDJTIwYXBwbHklMkMlMjB3b3JrJTJDJTIwdmlzYXxlbnwwfDB8fHwxNjkyMzgwMDgzfDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Christin Hume](https://unsplash.com/@christinhumephoto?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Building Your Dream Career: A Concise Guide on How to Apply for a Work Visa in the USA
+
+# Building Your Dream Career: A Concise Guide on How to Apply for a Work Visa in the USA
 
 To most people around the world, the USA stands as a beacon of opportunity and prosperity. If you're considering crossing borders to build your dream career, it's crucial to understand how to apply for a work visa in the USA. This how-to guide provides detailed steps to facilitate your journey towards employment in the United States.
 
@@ -39,11 +39,11 @@ Once you have secured a job offer, your employer will need to file a petition wi
 
 The USCIS takes time to review your petition. If successful, the approval of your work authorization allows you to proceed to apply for the visa. Patience is vital during this period, as the waiting time can vary.
 
-## Step 5: Apply for the Visa 
+## Step 5: Apply for the Visa
 
 Once your work authorization is approved, you can now apply for the visa itself at the US Embassy or Consulate in your home country. You will fill out forms and attend a visa interview. Ensure to provide accurate information as any discrepancies could jeopardize your visa acquisition.
 
-## Step 6: Wait for Visa Approval 
+## Step 6: Wait for Visa Approval
 
 Again, after the application, you will need to wait for the outcome. If approved, you can then travel to the US and embark on your career journey.
 
