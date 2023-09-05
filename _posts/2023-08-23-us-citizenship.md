@@ -17,12 +17,12 @@ header:
   teaser: https://images.unsplash.com/photo-1548280210-741c035fad0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw3fHx1cyUyMGNpdGl6ZW5zaGlwJTJDJTIwdXMlMkMlMjBjaXRpemVuc2hpcHxlbnwwfDB8fHwxNjkyODI3NTE4fDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Joris Beugels](https://unsplash.com/@jorisbeugels?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Navigating the Pathway to US Citizenship in the USA
+
+# Navigating the Pathway to US Citizenship in the USA
 
 Becoming a US citizen is often considered a significant milestone for immigrants. US citizenship opens the door to a new world of opportunity, democracy, and freedom for many people seeking a better life. This guide provides information on how you can embark on your journey to citizenship in the USA.
 
-## Table of Contents 
+## Table of Contents
 
 - [Understanding US Citizenship](#Understanding-US-Citizenship)
 - [Requirements and Eligibility for US Citizenship](#Requirements-and-Eligibility-for-US-Citizenship)
@@ -43,7 +43,7 @@ Before you can take the oath and become a US citizen, there are a few eligibilit
 - Demonstrate continuous residence in the United States for at least 5 years immediately preceding the date of filing the application
 - Show that you have been physically present in the United States for at least 30 months out of the 5 years immediately preceding the date of filing the application
 
-Remember that the requirements listed above are not exhaustive, and other qualifications may apply based on your specific situation. 
+Remember that the requirements listed above are not exhaustive, and other qualifications may apply based on your specific situation.
 
 ## The Process of applying for US Citizenship
 

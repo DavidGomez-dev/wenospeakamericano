@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw4fHx3b3JrJTIwdmlzYSUyMHVzYSUyMHJlcXVpcmVtZW50cyUyQyUyMHdvcmslMkMlMjB2aXNhJTJDJTIwcmVxdWlyZW1lbnRzfGVufDB8MHx8fDE2OTI4MjYyNzl8MA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [KOBU Agency](https://unsplash.com/@kobuagency?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Building Your Dream Career: A Comprehensive Guide on Work Visa USA Requirements
+
+# Building Your Dream Career: A Comprehensive Guide on Work Visa USA Requirements
 
 America, known as the land of opportunities, is a dream destination for many individuals worldwide. Understanding the work visa USA requirements is the first and crucial step toward building your career in this vibrant nation.
 
@@ -31,11 +31,11 @@ Before you start planning your career, it is vital to understand the implication
 
 There are various types of work visas available in the United States. Here is a brief introduction to some of the most common types.
 
-* __H-1B Visas__ are suitable for individuals in specialized fields like IT, engineering, mathematics, and science.
-* __H-2B Visas__ are for temporary or seasonal non-agricultural workers.
-* __L Visas__ are for intra-company transferees.
-* __O Visas__ are for those with extraordinary ability in science, arts, education, business, athletics, or the film and television industry.
-* __P Visas__ are for athletes, artists, and entertainers.
+- **H-1B Visas** are suitable for individuals in specialized fields like IT, engineering, mathematics, and science.
+- **H-2B Visas** are for temporary or seasonal non-agricultural workers.
+- **L Visas** are for intra-company transferees.
+- **O Visas** are for those with extraordinary ability in science, arts, education, business, athletics, or the film and television industry.
+- **P Visas** are for athletes, artists, and entertainers.
 
 #### Key Requirements For Work Visa in the USA
 

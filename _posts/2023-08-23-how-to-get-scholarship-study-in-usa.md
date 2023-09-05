@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1597701548622-cf60627fd70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw3fHxob3clMjB0byUyMGdldCUyMHNjaG9sYXJzaGlwJTIwdG8lMjBzdHVkeSUyMGluJTIwdXNhJTJDJTIwaG93JTJDJTIwZ2V0JTJDJTIwc2Nob2xhcnNoaXB8ZW58MHwwfHx8MTY5MjgyNjY3MHww&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Unseen Histories](https://unsplash.com/@unseenhistories?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # A Comprehensive Roadmap on How to Get a Scholarship to Study in The USA
+
+# A Comprehensive Roadmap on How to Get a Scholarship to Study in The USA
 
 Applying for a US scholarship could look like an uphill task due to the amount of information or perhaps misinformation available. It’s particularly muddled for international students unfamiliar with the American education system. This guide will demystify what it means, the options available and how to get a scholarship to study in the USA.
 
@@ -43,7 +43,7 @@ A significant aspect of obtaining a scholarship entails identifying the right on
 
 Academic excellence often plays a significant role in most scholarships. Keeping your grades up is crucial.
 
-### Prepare a Standout Application 
+### Prepare a Standout Application
 
 Make your application stand out by highlighting your strengths, achievements and ambitions clearly. Remember, every detail counts so don't skip anything!
 

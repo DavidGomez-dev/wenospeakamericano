@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1517946487903-5430c839d98a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw0fHxncmVlbiUyMGNhcmQlMjBhcHBsaWNhdGlvbiUyQyUyMGdyZWVuJTJDJTIwY2FyZCUyQyUyMGFwcGxpY2F0aW9ufGVufDB8MHx8fDE2OTM2NTI3MzN8MA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Ronaldo de Oliveira](https://unsplash.com/@ronaldordeoliveira?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Demystifying the Green Card Application: Your Journey to U.S. Residency
+
+# Demystifying the Green Card Application: Your Journey to U.S. Residency
 
 The **green card application** process can often seem daunting to newcomers in the United States. This post will walk you through the key steps towards understanding residency through the **green card** pathway, making your journey to becoming a permanent resident in the United States smoother and simpler.
 
@@ -50,10 +50,9 @@ The **green card application** can be broken down into several stages. This incl
 4. **Decisions**: Lastly, you will be notified if your **green card application** has been approved, denied, or requires further evidence.
 
 Undertaking a **green card application** can be a commendable endeavor but understanding the process can be quite overwhelming. The above insights should act as a guide, helping you navigate each stage of your journey to U.S. residency with confidence. Remember, the process may take time but the advantages that come with owning a green card can be worth the wait.
- 
-Doc source - [USCIS - Green Card Application](https://www.uscis.gov/green-card/green-card-processes-and-procedures/green-card-processes) 
+
+Doc source - [USCIS - Green Card Application](https://www.uscis.gov/green-card/green-card-processes-and-procedures/green-card-processes)
 
 While this guide offers a basic understanding of the green card, consider seeking legal advice to further comprehend the intricacies of the process and to find the best strategy for your individual situation.
-
 
 **Disclaimer: The information contained in this blog post is intended for informational purposes only and should not be substituted for legal advice. Always consult an immigration attorney or professional for full information and guidance.**

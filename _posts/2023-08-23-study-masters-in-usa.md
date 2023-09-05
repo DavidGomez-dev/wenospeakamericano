@@ -17,23 +17,23 @@ header:
   teaser: https://images.unsplash.com/photo-1623631630489-46b12b0be65c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwzfHxzdHVkeSUyMG1hc3RlcnMlMjBpbiUyMHVzYSUyQyUyMHN0dWR5JTJDJTIwbWFzdGVyc3xlbnwwfDB8fHwxNjkyODI3MzA2fDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Tim Alex](https://unsplash.com/@thelondoner?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Navigating Your Route to Success: A Comprehensive Guide to Studying for a Masters in the USA
 
-Embarking on a journey to **study a masters in the USA** can be an exciting yet overwhelming experience. The healthcare, legal, and education systems can be vastly different than those in other countries - that's why we've crafted this guide to help you compartmentalize the process of studying in the prolific educational halls of America. 
+# Navigating Your Route to Success: A Comprehensive Guide to Studying for a Masters in the USA
+
+Embarking on a journey to **study a masters in the USA** can be an exciting yet overwhelming experience. The healthcare, legal, and education systems can be vastly different than those in other countries - that's why we've crafted this guide to help you compartmentalize the process of studying in the prolific educational halls of America.
 
 The guide includes insights on:
 
-* Choosing the right program and university.
-* Overcoming cultural and financial obstacles.
-* Networking opportunities for international students.
-* Boosting your career prospects post-studies.
+- Choosing the right program and university.
+- Overcoming cultural and financial obstacles.
+- Networking opportunities for international students.
+- Boosting your career prospects post-studies.
 
-## Heading ## 
+## Heading
 
 1. **Why Study a Masters in the USA?**
 
-When it comes to choosing a country to pursue a masters degree, the USA ranks among the top due to its prestigious universities, diverse course offerings, and global recognition. Students aiming to **study** abroad often find that securing a **masters** degree from an American institution gives them a competitive edge in the international job market. 
+When it comes to choosing a country to pursue a masters degree, the USA ranks among the top due to its prestigious universities, diverse course offerings, and global recognition. Students aiming to **study** abroad often find that securing a **masters** degree from an American institution gives them a competitive edge in the international job market.
 
 2. **Choosing the Right University and Program**
 

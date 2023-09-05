@@ -17,8 +17,8 @@ header:
   teaser: https://images.unsplash.com/photo-1613738053817-7f0983aa456d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw5fHxncmVlbiUyMGNhcmQlMkMlMjBncmVlbiUyQyUyMGNhcmR8ZW58MHwwfHx8MTY5MzgyNTM2OXww&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Marius Teodorescu](https://unsplash.com/@marivsteo?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Unlocking the Basics of Residency: A Deep Dive into the world of Green Cards in the USA
+
+# Unlocking the Basics of Residency: A Deep Dive into the world of Green Cards in the USA
 
 Obtaining a **green card** is often the desired goal for many immigrants coming to the United States. It's the golden ticket that allows individuals to permanently live and work in the country, paving the way to fulfill the American dream. But what really is a green card? How does it affirm your residency status in the USA?
 

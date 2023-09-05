@@ -23,8 +23,8 @@ header:
   teaser: https://images.unsplash.com/photo-1510786975811-fe8c5fc62e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw3fHxpbW1pZ3JhdGlvbiUyMHZpc2FzJTJDJTIwaW1taWdyYXRpb24lMkMlMjB2aXNhc3xlbnwwfDB8fHwxNjkyODI3MjAxfDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Andrew Schultz](https://unsplash.com/@andrewschultz?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Understanding USA Immigration Visas: Important Info You Need to Know
+
+# Understanding USA Immigration Visas: Important Info You Need to Know
 
 Understanding the United States' immigration visas can be complicated, but it's essential for everyone seeking to live, work, or study in the country.
 
@@ -33,7 +33,6 @@ Understanding the United States' immigration visas can be complicated, but it's 
 There are two broad classifications of immigration visas: immigrant visas and non-immigrant visas.
 
 - **Immigrant visas** are for individuals who intend to live and work permanently in the U.S. These include family-sponsored visas, employment-based visas, diversity visas, and others.
-  
 - **Non-immigrant visas** are for individuals coming to the U.S. on a temporary basis for tourism, business, temporary work, or study.
 
 ## Key Aspects of Immigration Visas in the USA

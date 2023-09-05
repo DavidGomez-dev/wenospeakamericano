@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1500496733680-167c3db69389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw3fHxpbnZlc3RtZW50JTIwZ3JlZW4lMjBjYXJkJTJDJTIwaW52ZXN0bWVudCUyQyUyMGdyZWVuJTJDJTIwY2FyZHxlbnwwfDB8fHwxNjkyODI3NjIyfDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Kenny Eliason](https://unsplash.com/@neonbrand?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Climbing the Green Ladder: A Beginner's Guide to Investment Green Card in the USA
+
+# Climbing the Green Ladder: A Beginner's Guide to Investment Green Card in the USA
 
 The United States is often perceived as the land of unlimited opportunities, and for aspiring immigrants, the **investment green card** can be the golden ticket. This guide aims at making every beginner understand the ins and outs of obtaining an investment green card in the USA.
 
@@ -34,6 +34,7 @@ Generally, any commercial enterprise can act as an **investment** platform for o
 ## How does the Green Card process work?
 
 Here is a simplification of how the **green card** process works based on USCIS guidelines:
+
 1. File form I-526 (Immigrant Petition by Alien Entrepreneurs)
 2. After approval, either file Form I-485 to adjust your status to a conditional permanent resident within the United States or apply for an immigrant visa at a U.S. Embassy or consulate abroad.
 3. Apply for removal of conditions 90 days prior to the two years of receiving conditional status by filing Form I-829 (Petition by Entrepreneur to Remove Conditions on Permanent Resident Status).

@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1507025793886-e20cd4685fae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw5fHxtaWdyYW50JTIwd29ya2VycyUyMHdlbGZhcmUlMkMlMjBtaWdyYW50JTJDJTIwd29ya2VycyUyQyUyMHdlbGZhcmV8ZW58MHwwfHx8MTY5MjgyNzkxM3ww&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Steve Long](https://unsplash.com/@stevelong3?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # A Comprehensive Guide to Navigating Employment & Migrant Workers Welfare in the USA
+
+# A Comprehensive Guide to Navigating Employment & Migrant Workers Welfare in the USA
 
 As a country known for its diverse population, the United States continues to welcome a large number of migrant workers every year. Among the critical aspects to consider while navigating employment in the U.S., understanding the rights and welfare for migrant workers plays a substantial part.
 
@@ -35,7 +35,7 @@ Understanding welfare schemes is an essential part of ensuring a quality work-li
 
 ## Understanding the Social Security and Public Assistance Programs
 
-The fiscal contributions of migrant workers to the United States are substantial, with a significant proportion of their salary going towards taxes. These fiscal contributions support a variety of state-provided benefits, such as *Social Security*, *Medicare*, and *Public Assistance Programs*, thereby playing a vital role in supporting migrant workers' welfare.
+The fiscal contributions of migrant workers to the United States are substantial, with a significant proportion of their salary going towards taxes. These fiscal contributions support a variety of state-provided benefits, such as _Social Security_, _Medicare_, and _Public Assistance Programs_, thereby playing a vital role in supporting migrant workers' welfare.
 
 ## Job Security and Workers' Rights
 

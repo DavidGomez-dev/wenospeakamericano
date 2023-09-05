@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1550381261-e3ed3df18226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw3fHxyZXF1aXJlbWVudHMlMjBmb3IlMjB1cyUyMHZpc2ElMkMlMjByZXF1aXJlbWVudHMlMkMlMjB1cyUyQyUyMHZpc2F8ZW58MHwwfHx8MTY5MjgyNzA5N3ww&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Ryan Spaulding](https://unsplash.com/@ryanzspaulding?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Understanding the Requirements for US Visa for Employment
+
+# Understanding the Requirements for US Visa for Employment
 
 Navigating the employment landscape can be daunting, especially for those looking to work in the United States. The **requirements for a US visa** are stringent and specific. Securing the essential paperwork is often the first step towards a successful employment journey. So, what are the **requirements** you need to fulfil to secure a **US** employment **visa**?
 
@@ -37,7 +37,7 @@ When it comes to obtaining a US employment visa, there are several standard requ
 4. Receipt number for approved Petition for a Non-Immigrant Worker, Form I-129.
 5. Passport photo meeting the photo requirements.
 
-More specific requirements will vary depending on the type of employment visa category. 
+More specific requirements will vary depending on the type of employment visa category.
 
 ## Types of US Employment Visas
 

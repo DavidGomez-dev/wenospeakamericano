@@ -20,14 +20,14 @@ header:
   teaser: https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwxMHx8dXMlMjBjaXRpemVuc2hpcCUyMGJ5JTIwaW52ZXN0bWVudCUyQyUyMHVzJTJDJTIwY2l0aXplbnNoaXAlMkMlMjBieXxlbnwwfDB8fHwxNjkyODI2OTg4fDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Alexander Mils](https://unsplash.com/@alexandermils?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # Discovering Pathways: US Citizenship by Investment
+
+# Discovering Pathways: US Citizenship by Investment
 
 ## A Comprehensive Guide to Acquiring US Citizenship by Investment
 
 The road to acquiring US citizenship can take many forms. One increasingly popular route is through investment, commonly referred to as _US citizenship by investment_. This guide will introduce you to what this means and the potential merits of choosing this pathway.
 
-### U.S Citizenship: What Does It Mean? 
+### U.S Citizenship: What Does It Mean?
 
 When someone becomes a citizen of the United States, they are legally recognized as a national of the country. They can participate fully in civic society, enjoy substantially the same legal rights as native-born citizens, and are subject to the jurisdiction of the U.S. The road to achieving all these can take various pathways like naturalization, green card status, or _US citizenship by investment_.
 
@@ -39,7 +39,7 @@ US citizenship by investment is a legal and financial program that provides fore
 
 The primary requirement for achieving US citizenship by investment is to make a substantial investment in a US enterprise or commercial enterprise. This is usually done via the EB-5 Investor Visa Program. This way, foreign nationals can indirectly attain US citizenship by initially acquiring an EB-5 visa.
 
-### EB-5 Visa and US Citizenship 
+### EB-5 Visa and US Citizenship
 
 The EB-5 visa is a type of immigrant visa that is available to foreign nationals who invest a substantial amount into a new commercial enterprise in the US. After a prescribed period, holders of an EB-5 visa may be eligible for citizenship, following the standard path from visa to green card to citizenship.
 

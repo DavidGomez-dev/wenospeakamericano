@@ -18,8 +18,8 @@ header:
   teaser: https://images.unsplash.com/photo-1473090826765-d54ac2fdc1eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwyfHxhcHBseSUyMGZvciUyMHdvcmslMjBwZXJtaXQlMjBpbiUyMHVzYSUyQyUyMGFwcGx5JTJDJTIwd29yayUyQyUyMHBlcm1pdHxlbnwwfDB8fHwxNjkyODI2ODc2fDA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [frank mckenna](https://unsplash.com/@frankiefoto?utm_source=wenospeakamericano&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=wenospeakamericano&utm_medium=referral)
 ---
-  
-  # A Comprehensive Guide: How to Apply for a Work Permit in the USA
+
+# A Comprehensive Guide: How to Apply for a Work Permit in the USA
 
 If you're looking for a comprehensive guide on how to **apply for a work permit in the USA**, you are in the right place. This post will provide all the essential info you need to kick start the process. No matter where you are, understanding how to apply, the role of work, and the importance of a permit are vital steps.
 
@@ -33,7 +33,7 @@ Not all non-citizens are eligible. Factors that can determine your eligibility i
 
 ### **Step 2: Form Filling**
 
-An application for a work permit involves filling out the *Form I-765, Application for Employment Authorization*.
+An application for a work permit involves filling out the _Form I-765, Application for Employment Authorization_.
 
 ### **Step 3: Submission and Fees**
 
@@ -53,6 +53,6 @@ A work permit or **EAD is a legal document** that provides one the right to work
 
 # Final Thought
 
-Applying for a work permit in the USA can be a complex process, with numerous steps and requirements. However, with an understanding of the application process and criteria, you can simplify this journey. So, whether it's to improve your living conditions, pursue a dream job, or simply gain international work experience, don't let the process discourage you. Remember, America is known as the land of opportunities for a reason. Therefore, take your first step, apply and secure your work permit to fulfill your American dream. 
+Applying for a work permit in the USA can be a complex process, with numerous steps and requirements. However, with an understanding of the application process and criteria, you can simplify this journey. So, whether it's to improve your living conditions, pursue a dream job, or simply gain international work experience, don't let the process discourage you. Remember, America is known as the land of opportunities for a reason. Therefore, take your first step, apply and secure your work permit to fulfill your American dream.
 
 Hopefully, this guide has provided you the essential information about how to apply for a work permit in the USA. We wish you all the best on your journey. Keep faith and always look forward.
