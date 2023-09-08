@@ -108,7 +108,10 @@ site_og_image | escape -%} {%- if page.date -%} {%- assign og_type = "article" -
       "review": [
         {
           "@type": "Review",
-          "author": "Hugo Caballero",
+          "author": {
+            "@type": "Person",
+            "name": "Hugo Caballero"
+          },
           "datePublished": "2019-10-22",
           "name": "Very useful",
           "reviewBody": "Although I have been in the United States for several months now, I learned many concepts and confirmed others, it covers many important topics, I just would have liked it to go a little deeper on where and how to look for jobs.",
@@ -119,11 +122,17 @@ site_og_image | escape -%} {%- if page.date -%} {%- assign og_type = "article" -
         },
         {
           "@type": "Review",
-          "author": "Matias",
+          "author": {
+            "@type": "Person",
+            "name": "Matias"
+          },
           "datePublished": "2019-03-19",
           "name": "Great Guide for the US",
           "reviewBody": "Very good book to guide and clear up many doubts if you plan to emigrate to the US, totally recommended.",
-          "reviewRating": "5"
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
         }
       ]
     }
