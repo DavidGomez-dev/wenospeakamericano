@@ -9,6 +9,7 @@ menu: false
 ref: index
 author_profile: false
 date:
+canonical_url: "https://www.wenospeakamericano.com/es/?forced=true"
 header:
   overlay_image: "/assets/images/47899829_m.jpg"
   overlay_filter: "linear-gradient(to right bottom,rgba(60, 60, 110,0.8), rgba(178, 34, 52, 0.5))"
