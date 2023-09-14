@@ -144,6 +144,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/lifexpandusa/"
+    - label: "Sitemap"
+      icon: "fas fa-fw fa-sitemap"
+      url: "https://www.wenospeakamericano.com/sitemap.xml"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
